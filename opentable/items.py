@@ -12,11 +12,12 @@ class OpentableItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     rest_name = scrapy.Field()
-    rating = scrapy.Field()
-    num_reviews = scrapy.Field()
+    rating_list = scrapy.Field()
+    num_reviews_list = scrapy.Field()
     expensive = scrapy.Field()
     genre = scrapy.Field()
     location = scrapy.Field()
-    booked_today = scrapy.Field()
-    delivery_partners = scrapy.Field()
+    booked_today_list = scrapy.Field()
+    delivery = scrapy.Field()
+    #delivery_partners = scrapy.Field()
 
