@@ -1,0 +1,1262 @@
+booked_today_list,delivery,expensive,genre,location,num_reviews_list,rating_list,rest_name
+, Takeout,  $    $    $    $  ,Steakhouse,Union Square,(312),4.4 stars out of 5,Strip House Speakeasy
+,,  $    $      ,American,Upper West Side,(93),4.6 stars out of 5,Trump Grill
+,2,  $    $      ,Mexican,Hell's Kitchen,(1005),4.5 stars out of 5,Tacuba Hell's Kitchen
+,,  $    $      ,Seafood,Chelsea,(473),4.6 stars out of 5,Cull and Pistol
+, Takeout,  $    $    $    $  ,Japanese,Midtown West,(79),4.8 stars out of 5,Yakitori Tori Shin - Select Counter
+,,  $    $    $    ,Italian,Greenwich Village,(519),4.4 stars out of 5,Gradisca
+, Takeout,  $    $      ,Burgers,Union Square,(681),4.4 stars out of 5,5 Napkin Burger - Union Square
+,2,  $    $      ,Thai,Union Square,(397),4.2 stars out of 5,Spice - Union Square
+, Takeout,  $    $      ,French,Greenwich Village,(344),4.6 stars out of 5,Bar Six
+, Delivery partners,  $    $      ,Italian,Midtown West,(125),4.6 stars out of 5,Aroma Trattoria
+, Takeout,  $    $      ,Chinese (Sichuan),Midtown East,,,Szechuan Garden
+,,  $    $    $    $  ,Steakhouse,Meatpacking District,(3454),4.3 stars out of 5,Old Homestead Steakhouse- New York City
+,,  $    $    $    ,American,Greenwich Village,(239),4.6 stars out of 5,Villanelle
+,,  $    $    $    ,American,Midtown East,(696),4.7 stars out of 5,SIDECAR at P.J. Clarke's
+,,  $    $    $    ,Italian,Midtown East,(695),4.5 stars out of 5,Montebello Ristorante Italiano
+, Takeout,  $    $      ,American,Midtown West,(686),4.2 stars out of 5,Brooklyn Diner
+,,  $    $    $    ,Italian,Chelsea,(79),4.7 stars out of 5,Portale Restaurant
+,2,  $    $    $    $  ,Japanese,Midtown West,(658),4.7 stars out of 5,Yakitori Tori Shin
+,,  $    $      ,Mediterranean,Midtown East,(73),4.5 stars out of 5,Pathos Cafe
+,,  $    $    $    ,Steakhouse,Midtown East,(606),4.5 stars out of 5,American Cut Steakhouse Midtown
+,,  $    $    $    ,Contemporary American,Midtown West,(887),4.3 stars out of 5,Todd English at The Plaza Food Hall
+, Takeout,  $    $      ,Italian,Hell's Kitchen,(2124),4.5 stars out of 5,Bocca di Bacco (Hell's Kitchen - 54th St.)
+,,  $    $    $    $  ,American,Midtown East,(2792),4.1 stars out of 5,BLT Steak
+,2,  $    $      ,Thai,Midtown West,(1),3.4 stars out of 5,Chai Thai Kitchen
+, Takeout,  $    $    $    ,Indian,Midtown West,(19),4.5 stars out of 5,Mughlai Indian Cuisine - W. 55th
+, Takeout,  $    $      ,Burgers,Theater District / Times Square,(37),4.4 stars out of 5,Kings of Kobe
+,,  $    $      ,American,Union Square,(356),4.4 stars out of 5,Bowery Road
+,2,  $    $    $    ,Mediterranean,Midtown East,(68),4.6 stars out of 5,yara
+, Delivery partners,  $    $      ,Indian,Midtown East,(352),4.4 stars out of 5,2 Darbar Grill
+, Takeout,  $    $      ,Cuban,Midtown West,(1644),4.5 stars out of 5,Guantanamera
+, Takeout,  $    $      ,Mediterranean,Hell's Kitchen,(600),4.6 stars out of 5,Medi Wine Bar
+, Takeout,  $    $      ,American,Hell's Kitchen,(7),4.7 stars out of 5,Westville Hell's Kitchen
+, Takeout,  $    $      ,Italian,Midtown West,(398),4.4 stars out of 5,Joe G Restaurant
+, Takeout,  $    $    $    ,Italian,Midtown East,(767),4.5 stars out of 5,Amata
+,2,  $    $    $    ,Italian,Hell's Kitchen,(969),4.4 stars out of 5,Amarone
+, Delivery partners,  $    $      ,Italian,Midtown East,(545),4.7 stars out of 5,La Villetta
+,,  $    $      ,Indian,Hell's Kitchen,,,Karahi Indian Cuisine
+,,  $    $      ,American,Midtown East,(8),4.4 stars out of 5,Ty Bar - Four Seasons New York
+, Takeout,  $    $      ,Mexican,Midtown West,(221),4.2 stars out of 5,Cancun
+,,  $    $    $    ,Italian,Chelsea,(22),4.3 stars out of 5,Marble Downtown
+, Takeout,  $    $      ,Sushi,Columbus Circle,(151),4.3 stars out of 5,Fuji Sushi
+,,  $    $    $    ,American,Midtown West,(30),4.1 stars out of 5,The Living Room
+, Takeout,  $    $    $    ,American,Hell's Kitchen,(3408),4.5 stars out of 5,Print Restaurant
+, Takeout,  $    $    $    ,Mexican,West Village,(26),4.6 stars out of 5,La Contenta Oeste
+,2,  $    $      ,Mexican,Union Square,,,Tortaria
+, Takeout,  $    $      ,Ramen,Chelsea,(4),4.6 stars out of 5,Kogane
+, Delivery partners,  $    $      ,Lebanese,Midtown East,(1527),4.6 stars out of 5,NAYA Mezze & Grill
+,,  $    $    $    $  ,Steakhouse,Midtown West,(311),4.7 stars out of 5,Tuscany Steakhouse
+, Takeout,  $    $      ,American,Midtown West,(19),3.8 stars out of 5,Carnegie Diner & Cafe
+, Takeout,  $    $    $    ,Contemporary American,East Village,(732),4.7 stars out of 5,Feast
+,,  $    $      ,Contemporary Korean,Meatpacking District,,,K-pop Haus
+, Delivery partners,  $    $      ,Korean,Meatpacking District,,,Lulu Poke
+, Takeout,  $    $      ,Greek,Union Square,(404),4.6 stars out of 5,Village Taverna Greek Grill
+,,  $    $      ,Italian,Meatpacking District,,,I Love Panzerotti
+,,  $    $      ,Mexican,Meatpacking District,,,Los Panchos Taqueria
+,,  $    $      ,Japanese,Meatpacking District,,,Makito
+,,  $    $      ,Japanese,Meatpacking District,,,Momo Curry
+,,  $    $      ,American,Meatpacking District,,,CRAZY DOGS NYC
+,,  $    $    $    ,Cocktail Bar,Meatpacking District,(2),,The Bags NYC
+, Takeout,  $    $      ,American,Chelsea,,,Wing Club
+, Takeout,  $    $      ,Seafood,Hell's Kitchen,(423),4.6 stars out of 5,Blue Seafood Bar
+,2,  $    $    $    ,Italian,Greenwich Village,(171),4.6 stars out of 5,Osteria 57
+,,  $    $    $    $  ,Japanese,Chelsea,(14),4.7 stars out of 5,Mojo Omakase
+, Takeout,  $    $    $    ,American,Midtown West,(196),4.6 stars out of 5,Ardesia Wine Bar
+, Delivery partners,  $    $      ,Barbecue,West Village,(176),4 stars out of 5,Mighty Quinn's Barbeque
+, Takeout,  $    $      ,Italian,Midtown West,(34),4.5 stars out of 5,Wolf - Nordstrom New York City
+, Takeout,  $    $      ,Italian,Midtown West,(17),4.3 stars out of 5,Jeannie's - Nordstrom New York City
+, Takeout,  $    $      ,Contemporary American,Midtown West,(35),4.4 stars out of 5,Bistro Verde - Nordstrom New York City
+, Takeout,  $    $      ,Pan-Asian,Midtown West,(1),4.4 stars out of 5,Hani Pacific - Nordstrom New York City
+,2,  $    $      ,American,Hell's Kitchen,(98),4.1 stars out of 5,Route 66
+,2,  $    $      ,Japanese,Midtown East,(2339),4.6 stars out of 5,"Gyu-Kaku - New York, NY | Midtown"
+, Delivery partners,  $    $      ,Contemporary American,Chelsea,(37),4.6 stars out of 5,Jack's Wife Freda - Chelsea
+,2,  $    $      ,Chinese,Midtown West,(104),4.1 stars out of 5,Red Peony
+, Delivery partners,  $    $      ,Italian,Midtown West,(1455),4.6 stars out of 5,PizzArte
+,,  $    $      ,Fusion / Eclectic,Chelsea,(3867),4.5 stars out of 5,TAO Downtown
+,2,  $    $      ,Japanese,Midtown West,(4058),4 stars out of 5,Benihana - New York
+,,  $    $    $    ,Japanese,Chelsea,(244),4.6 stars out of 5,SushiNao
+, Takeout,  $    $      ,Italian,Midtown West,(1384),4.6 stars out of 5,Patzeria Family & Friends
+,,  $    $    $    ,Italian,West Village,(199),4.5 stars out of 5,Sotto 13
+,,  $    $      ,American,Midtown West,(752),4.5 stars out of 5,Jams - NYC
+, Delivery partners,  $    $      ,Italian,Midtown East,(256),4.2 stars out of 5,Angelo Bellini Italian Restaurant
+,,  $    $      ,Comfort Food,Union Square,(7759),4.4 stars out of 5,Max Brenner - Union Square
+,,  $    $    $    $  ,Japanese,West Village,(244),4.7 stars out of 5,Kosaka
+,,  $    $      ,Contemporary American,Theater District / Times Square,(1795),4.2 stars out of 5,Don't Tell Mama NYC
+, Takeout,  $    $    $    $  ,Steakhouse,Midtown East,(2542),4.6 stars out of 5,The Palm Too
+,,  $    $      ,Asian,Theater District / Times Square,,,Manting Restaurant
+, Delivery partners,  $    $      ,Chinese,Hell's Kitchen,,,Ollie's
+,,  $    $      ,Italian,Gramercy / Flatiron,,,Big Slice (the)
+, Takeout,  $    $      ,Spanish,Gramercy / Flatiron,(897),4.6 stars out of 5,Sala One Nine
+,,  $    $    $    $  ,Contemporary American,Midtown East,(1052),4 stars out of 5,Peacock Alley - Waldorf Astoria New York
+,,  $    $      ,Thai,Theater District / Times Square,(1),5 stars out of 5,Pongsri Thai
+,,  $    $      ,Italian,Theater District / Times Square,(5202),4.2 stars out of 5,Esca
+,,  $    $    $    $  ,American,Hell's Kitchen,,,Adella
+,2,  $    $      ,Thai,Chelsea,(11),4.2 stars out of 5,Royal Siam Thai Cuisine
+,,  $    $      ,American,Theater District / Times Square,,,Roast Kitchen
+, Delivery partners,  $    $      ,American,Gramercy / Flatiron,(2),3 stars out of 5,Burger & Lobster - NY
+,,  $    $    $    $  ,American,Gramercy / Flatiron,,,Flatiron Lounge
+,,  $    $    $    ,American,Kips Bay,(2),4.3 stars out of 5,Bluebell Cafe
+,,  $    $      ,Vegetarian / Vegan,Gramercy / Flatiron,(6),3.3 stars out of 5,VSPOT Organic - Gramercy
+, Takeout,  $    $    $    ,Italian,Chelsea,(241),4.5 stars out of 5,Le Zie 2000
+,,  $    $      ,Turkish,Midtown East,(145),4.6 stars out of 5,Sip Sak
+,,  $    $    $    ,French,Midtown West,(3694),4.5 stars out of 5,Benoit Restaurant and Wine Bar
+,,  $    $      ,Mediterranean,Union Square,(120),4.3 stars out of 5,Pierre Loti Union Square
+,,  $    $    $    $  ,Sushi,Union Square,(1106),4.6 stars out of 5,15 East Restaurant
+, Takeout,  $    $    $    ,Italian,Midtown West,(2350),4.7 stars out of 5,Il Corso (New York City)
+,2,  $    $      ,Pizzeria,Chelsea,(181),4.5 stars out of 5,Ovest Pizzoteca
+,,  $    $    $    ,American,Midtown West,(1411),4.6 stars out of 5,Michael's
+,,  $    $      ,Seafood,Midtown East,(1987),4.6 stars out of 5,Crave Fishbar - Midtown
+,,  $    $    $    ,French,Midtown East,(10),4.6 stars out of 5,Bar Shun
+,,  $    $    $    ,Spanish,Chelsea,(2011),4.7 stars out of 5,Salinas
+, Takeout,  $    $    $    ,Italian,Midtown West,(807),4.6 stars out of 5,Mozzarella & Vino
+,,  $    $      ,Continental,Chelsea,(612),4.4 stars out of 5,Gallow Green
+,,  $    $    $    $  ,Afternoon Tea,Midtown West,(96),4.3 stars out of 5,Gotham Lounge
+,,  $    $    $    $  ,Italian,Midtown West,(1432),4.8 stars out of 5,Il Tinello
+, Takeout,  $    $    $    ,French,Midtown East,(531),4.5 stars out of 5,Le Bateau Ivre
+,,  $    $    $    ,Spanish,Midtown East,(814),4.4 stars out of 5,Socarrat Paella Bar - Midtown East
+,,  $    $    $    ,American,Midtown West,(264),3.7 stars out of 5,Murals on 54 Restaurant and Randolph's Bar And Lounge
+, Takeout,  $    $      ,American,Midtown West,(174),4.3 stars out of 5,Connolly's Pub and Restaurant - 54th
+,,  $    $      ,American,Midtown West,(1),3.9 stars out of 5,Herb N' Kitchen - New York Hilton Midtown
+, Takeout,  $    $    $    $  ,Steakhouse,Midtown East,(1447),4.5 stars out of 5,Wolfgang's Steak House - 54th Street
+, Takeout,  $    $    $    ,Seafood,Chelsea,(4),4.8 stars out of 5,The Mermaid Inn - Chelsea
+, Takeout,  $    $      ,Italian,Chelsea,(24),4.3 stars out of 5,Don Giovanni's - Chelsea
+,,  $    $    $    ,Tapas / Small Plates,Midtown East,(14),4.3 stars out of 5,Shochu and Tapas AYA
+,,  $    $    $    ,American,Chelsea,(26),4.5 stars out of 5,Worthwild
+, Takeout,  $    $    $    ,Italian,Hell's Kitchen,(1),5 stars out of 5,Maria Pia
+,2,  $    $      ,Italian,Midtown East,(246),4.5 stars out of 5,Pescatore
+,,  $    $    $    ,Swiss,Midtown West,(424),4.6 stars out of 5,Mont Blanc 52
+, Takeout,  $    $    $    ,Chinese (Shanghai),Union Square,(76),4.1 stars out of 5,Xu's Public House
+, Takeout,  $    $    $    $  ,Italian,Midtown East,(651),4.6 stars out of 5,Il Postino
+, Takeout,  $    $    $    $  ,Indian,Midtown West,(2012),4.7 stars out of 5,Indian Accent
+, Takeout,  $    $      ,Pizzeria,Hell's Kitchen,(217),4.1 stars out of 5,Angelo's Pizza
+, Takeout,  $    $    $    $  ,Nordic,Midtown East,(1999),4.7 stars out of 5,Aquavit
+,,  $    $      ,Comfort Food,Midtown West,(138),4.2 stars out of 5,Faces and Names
+,,  $    $    $    ,American,Midtown East,(476),4.7 stars out of 5,Bill's Townhouse
+,,  $    $    $    ,Contemporary American,Midtown West,(11),3.5 stars out of 5,Dabble
+,,  $    $    $    ,Italian,Midtown East,(1253),4.6 stars out of 5,Cellini
+, Takeout,  $    $      ,Brazilian,Hell's Kitchen,(255),4.5 stars out of 5,Rice N Bean - Hell's Kitchen
+,,  $    $      ,American,Theater District / Times Square,(1693),4.4 stars out of 5,Lillie's Times Square
+, Takeout,  $    $      ,Middle Eastern,Midtown East,(39),4 stars out of 5,Karizma Hookah Lounge
+,2,  $    $    $    ,Vietnamese,Turtle Bay,(31),4.4 stars out of 5,Obao - 53rd St
+,,  $    $    $    ,Steakhouse,Midtown East,(1046),4.6 stars out of 5,Bobby Van's Steakhouse - 54th Street
+, Takeout,  $    $    $    ,Greek,Midtown West,(4899),4.5 stars out of 5,Molyvos
+,,  $    $      ,American,Midtown East,(339),4.3 stars out of 5,Ophelia
+,,  $    $      ,Mexican,Midtown West,(1145),4.3 stars out of 5,Iguana
+, Delivery partners,  $    $      ,Korean,Midtown East,(127),3.5 stars out of 5,BarKogi
+, Takeout,  $    $    $    $  ,Kosher,Midtown East,(433),4.7 stars out of 5,Mike's Bistro - UES
+, Takeout,  $    $    $    ,Italian,Theater District / Times Square,(1791),3.8 stars out of 5,DaMarino NYC
+,,  $    $    $    ,Contemporary Mexican,Meatpacking District,(1040),4.6 stars out of 5,Bodega Negra at Dream Downtown
+,,  $    $    $    ,Contemporary American,Midtown West,(2898),4.7 stars out of 5,BG - Bergdorf Goodman
+, Takeout,  $    $    $    ,Chinese,Meatpacking District,(348),4.4 stars out of 5,Philippe Chow - Downtown
+, Takeout,  $    $    $    ,Italian,Midtown West,(898),4.5 stars out of 5,Bice Cucina FKA Bistro Milano
+, Takeout,  $    $    $    ,Italian,Midtown West,(93),4.6 stars out of 5,Felice 56
+, Takeout,  $    $      ,Asian,Midtown West,(6),3.9 stars out of 5,Wagamama - Midtown
+,2,  $    $      ,Italian,Theater District / Times Square,(966),4.3 stars out of 5,Da Tommaso NYC
+, Takeout,  $    $      ,American,Theater District / Times Square,(39),4.4 stars out of 5,The Three Monkeys Bar
+,,  $    $    $    ,French,Midtown West,(4478),4.6 stars out of 5,Brasserie 8 1/2
+,,  $    $      ,Tapas / Small Plates,Chelsea,(649),4.7 stars out of 5,Tía Pol
+, Takeout,  $    $    $    ,Gastro Pub,Upper East Side,(194),4.5 stars out of 5,Hudson Malone
+,,  $    $      ,Italian,Midtown East,(339),4.6 stars out of 5,Da Raffaele - NYC
+,,  $    $    $    ,American,Hell's Kitchen,(171),4.5 stars out of 5,The Harrow
+,,  $    $    $    $  ,Italian,Midtown East,(1487),4.7 stars out of 5,Armani Ristorante 5th Avenue
+,,  $    $      ,American,Chelsea,(11),4.4 stars out of 5,District Local
+, Delivery partners,  $    $      ,American,Midtown West,(106),4.4 stars out of 5,Tanner Smith's
+, Takeout,  $    $      ,Thai,Gramercy / Flatiron,,,Bangkok 2 Thai
+,2,  $    $      ,Asian,Gramercy / Flatiron,(3),4.6 stars out of 5,Proong Noodle Bar
+,,  $    $    $    ,Contemporary American,Midtown East,(398),4.6 stars out of 5,The Garden at The Four Seasons
+,,  $    $    $    ,Italian,Midtown West,(1209),4.6 stars out of 5,Basso56
+,,  $    $      ,Mexican,Union Square,(9),3.7 stars out of 5,Macho's
+, Takeout,  $    $    $    ,American,Greenwich Village,(370),4.4 stars out of 5,Society Cafe
+,,  $    $      ,Mexican,Midtown East,(43),4.4 stars out of 5,TacoVision
+,,  $    $    $    ,French,Union Square,(580),4.5 stars out of 5,Le Midi Bar & Restaurant
+,,  $    $      ,Spanish,West Village,(195),4.4 stars out of 5,La Nacional Restaurant
+,,  $    $    $    ,American,Midtown East,(699),4.8 stars out of 5,The Polo Bar
+, Delivery partners,  $    $      ,Latin American,Hell's Kitchen,(32),4.1 stars out of 5,Fusion HK Bar and Grill
+,,  $    $    $    ,Italian,Midtown West,(2298),4.4 stars out of 5,1 Nocello
+,,  $    $      ,Bar / Lounge / Bottle Service,Union Square,(9),3.7 stars out of 5,SideBAR - Union Square
+,,  $    $    $    ,American,Midtown West,(3365),4.2 stars out of 5,Redeye Grill
+,,  $    $    $    $  ,Chinese,Meatpacking District,(13702),4.6 stars out of 5,Buddakan NY
+,,  $    $    $    $  ,Japanese Speciality,Midtown East,(43),4.5 stars out of 5,Unagi-ya Hachibei
+, Takeout,  $    $      ,Mediterranean,Chelsea,,,Selina Chelsea New York City
+, Delivery partners,  $    $      ,Indian,Midtown West,(42),4.5 stars out of 5,bombay grill house
+, Takeout,  $    $      ,Sushi,Midtown East,,,MakiMaki Sushi
+, Takeout,  $    $      ,American,Midtown East,(609),4.6 stars out of 5,P.J. Clarke's - Third Avenue
+,,  $    $      ,Gastro Pub,Theater District / Times Square,(402),4.4 stars out of 5,The Distillery
+, Takeout,  $    $    $    ,Steakhouse,Midtown West,(3295),4.6 stars out of 5,Quality Italian - New York
+, Takeout,  $    $      ,Seafood,Midtown East,,,Sweetcatch Poke - Midtown East
+, Takeout,  $    $    $    ,Italian,Midtown West,(7294),4.5 stars out of 5,Trattoria Dell'Arte
+, Takeout,  $    $    $    $  ,Steakhouse,Greenwich Village,(3001),4.6 stars out of 5,Strip House
+,,  $    $      ,American,Meatpacking District,(16),4 stars out of 5,The Lobby Bar at Dream Downtown
+,,  $    $      ,Turkish,Turtle Bay,(178),4.5 stars out of 5,Pierre Loti Midtown
+,,  $    $      ,Cocktail Bar,Midtown West,(6),4.7 stars out of 5,The Rickey Cocktail Lounge at Dream Midtown
+,,  $    $    $    ,American,Midtown West,(1005),4.4 stars out of 5,The Wayfarer
+, Delivery partners,  $    $      ,Greek,Midtown East,(59),4.7 stars out of 5,Souvlaki GR Kouzina
+,,  $    $    $    $  ,Vegetarian,Greenwich Village,(2023),4.6 stars out of 5,Nix
+,2,  $    $      ,Japanese,Hell's Kitchen,(155),4.6 stars out of 5,Ageha
+,,  $    $      ,French,Midtown East,(530),4.4 stars out of 5,Deux Amis
+,,  $    $    $    $  ,Steakhouse,Midtown West,(8118),4.6 stars out of 5,Quality Meats
+,,  $    $    $    $  ,Nordic,Midtown East,(7),4.5 stars out of 5,Aquavit - Bar
+, Takeout,  $    $    $    ,Italian,Midtown East,(427),4.7 stars out of 5,Grifone
+,2,  $    $      ,Greek,Midtown West,(943),4.5 stars out of 5,Souvlaki GR Midtown
+,2,  $    $    $    ,Italian,Little Italy,(26),4.5 stars out of 5,Zia Maria Little Italy
+, Takeout,  $    $    $    ,French,TriBeCa - Downtown,(94),4.5 stars out of 5,Yves
+,2,  $    $      ,Vietnamese,NoLita,(129),4.4 stars out of 5,BoCaphe
+,2,  $    $    $    ,Latin American,Upper East Side,(84),4.7 stars out of 5,Dulce Vida Latin Bistro
+, Takeout,  $    $      ,Seafood,Battery Park,(102),4.3 stars out of 5,Miramar
+,,  $    $      ,Indian,Lincoln Square,(1555),3.6 stars out of 5,Sapphire
+,2,  $    $      ,French,Upper West Side,(280),4.1 stars out of 5,Le Monde
+, Takeout,  $    $      ,Afghan,Upper East Side,(91),4.6 stars out of 5,Afghan Kebab House
+,2,  $    $    $    ,Italian,Financial District,(462),4.6 stars out of 5,Da Claudio Ristorante
+,,  $    $    $    ,Steak,TriBeCa - Downtown,(581),4.5 stars out of 5,CUT By Wolfgang Puck at FS Downtown New York
+,2,  $    $      ,Italian,Upper West Side,(107),4.7 stars out of 5,Ortomare Ristorante Pizzeria
+, Takeout,  $    $      ,Italian,Little Italy,(192),4.7 stars out of 5,La Bella Vita
+,2,  $    $    $    ,Italian,Upper East Side,(34),4.5 stars out of 5,Vicolina
+,2,  $    $    $    $  ,Italian,Upper East Side,(338),4.8 stars out of 5,Sandro's Restaurant
+, Takeout,  $    $    $    ,Italian,Upper East Side,(47),4.3 stars out of 5,Mimmo Cucina Italiana
+, Delivery partners,  $    $      ,American,Financial District,(102),4.6 stars out of 5,Westville Wall Street
+, Delivery partners,  $    $      ,Italian,Upper West Side,(129),4.5 stars out of 5,Serafina 105
+,2,  $    $      ,Chinese,Chinatown,(17),4.3 stars out of 5,Buddha Bodai Kosher Vegetarian Restaurant
+, Takeout,  $    $      ,Japanese,Financial District,(618),4.2 stars out of 5,Haru Sushi - Wall Street
+, Takeout,  $    $      ,Mexican,East Harlem,(2),5 stars out of 5,Bistro Casa Azul
+,,  $    $      ,American,Financial District,(41),4.5 stars out of 5,The Porterhouse Brewing Company Bar + The Lovelace Cocktail & Gin Bar
+,2,  $    $    $    ,Italian,Financial District,(693),4.7 stars out of 5,Felice 15 Gold Street
+, Takeout,  $    $    $    ,Italian,Harlem,(2),5 stars out of 5,Osteria Laura NYC
+,,  $    $      ,Cuban,Harlem,(398),4.5 stars out of 5,Amor Cubano
+, Takeout,  $    $    $    ,Italian,Financial District,(230),4.5 stars out of 5,Giardino D'Oro
+,2,  $    $      ,American,Harlem,(300),4.6 stars out of 5,The Grange
+, Takeout,  $    $      ,Latin / Spanish,Inwood (Manhattan),,,Chef Papi's Kitchens by Luxor NY
+, Takeout,  $    $    $    ,Mediterranean,SoHo,(752),4.4 stars out of 5,Pera Soho
+,2,  $    $      ,Italian,Greenwich Village,(5270),4.6 stars out of 5,Lupa
+, Takeout,  $    $      ,French,SoHo,(1643),4.3 stars out of 5,Laduree SOHO
+,,  $    $      ,Italian,SoHo,(547),4.8 stars out of 5,Piccola Cucina Estiatorio
+,,  $    $    $    ,American,SoHo,(404),4.7 stars out of 5,The Crosby Bar
+,2,  $    $    $    ,Contemporary Indian,East Village,(391),4.5 stars out of 5,BAAR BAAR
+, Takeout,  $    $    $    ,Italian,East Village,(1348),4.8 stars out of 5,Lavagna - NYC
+,2,  $    $    $    ,Italian,Upper West Side,(1493),4.5 stars out of 5,Pappardella
+,,  $    $    $    $  ,French,Upper East Side,(2375),4.5 stars out of 5,Orsay
+, Takeout,  $    $    $    ,American,West Village,(1066),4.7 stars out of 5,The Clam
+,,  $    $    $    ,Mediterranean,SoHo,(649),4.6 stars out of 5,Antique Garage Soho
+, Takeout,  $    $    $    ,British,Upper East Side,(268),4.5 stars out of 5,Jones Wood Foundry
+, Takeout,  $    $    $    ,Indian,TriBeCa - Downtown,(3384),4.7 stars out of 5,Tamarind - Tribeca
+, Takeout,  $    $    $    ,Italian,Upper East Side,(753),4.8 stars out of 5,Sistina
+,2,  $    $    $    ,Italian,SoHo,(282),4.6 stars out of 5,Sola Pasta Bar
+,2,  $    $    $    ,Turkish,Upper East Side,(775),4.4 stars out of 5,A La Turka Restaurant
+, Takeout,  $    $      ,Italian,Upper East Side,(613),4.6 stars out of 5,Bottega
+, Takeout,  $    $    $    ,Mediterranean,Upper West Side,(285),4.3 stars out of 5,8th Hill Inspired Mediterranean Cuisine
+,,  $    $    $    $  ,Contemporary American,Lower East Side,(1139),4.4 stars out of 5,Hotel Chantelle
+,2,  $    $    $    ,French,Upper East Side,(747),4.5 stars out of 5,Brasserie Cognac East
+,2,  $    $      ,American,Upper East Side,(56),4.4 stars out of 5,The Meatball Shop - Upper East Side
+,2,  $    $    $    $  ,Sushi,Upper West Side,(29),4.9 stars out of 5,Sushi Nonaka
+,,  $    $    $    ,Seafood,Upper West Side,(3184),4.7 stars out of 5,The Mermaid Inn Uptown
+, Takeout,  $    $    $    ,Mexican,TriBeCa - Downtown,(539),4.5 stars out of 5,Añejo Tribeca
+, Takeout,  $    $      ,American,South Street Seaport,(712),4.4 stars out of 5,Industry Kitchen
+,2,  $    $    $    $  ,Japanese,Lower East Side,(653),4.6 stars out of 5,Blue Ribbon Sushi Izakaya
+, Takeout,  $    $    $    ,Mexican,SoHo,(1147),4.3 stars out of 5,Dos Caminos - SoHo
+,2,  $    $    $    ,Fusion / Eclectic,Lower East Side,(2501),4.3 stars out of 5,Essex
+,,  $    $    $    $  ,Cocktail Bar,SoHo,(6),4.2 stars out of 5,ART SoHo
+, Takeout,  $    $      ,Italian,Little Italy,(896),4.6 stars out of 5,Da Nico Ristorante - Manhattan Location
+, Takeout,  $    $    $    ,Italian,SoHo,(642),4.5 stars out of 5,SAN CARLO  Osteria Piemonte
+, Takeout,  $    $    $    ,French,Upper West Side,(490),4.5 stars out of 5,La Sirene UWS
+, Takeout,  $    $    $    ,Italian,Upper East Side,(1322),4.7 stars out of 5,Sfoglia
+,,  $    $    $    $  ,Steakhouse,East Village,(763),4.7 stars out of 5,Bowery Meat Company
+, Takeout,  $    $    $    ,Seafood,SoHo,(3580),4.7 stars out of 5,Lure New York
+, Takeout,  $    $    $    ,Italian,Upper East Side,(949),4.7 stars out of 5,Caravaggio New York
+, Takeout,  $    $    $    ,American,Financial District,(200),4.5 stars out of 5,PJ Clarkes on the Hudson
+, Delivery partners,  $    $      ,Italian,Little Italy,(815),4.3 stars out of 5,Aunt Jake's Little Italy
+,2,  $    $      ,Steakhouse,Financial District,(713),4.4 stars out of 5,Brooklyn Chop House
+, Delivery partners,  $    $    $    ,Steakhouse,Upper East Side,(1508),4.7 stars out of 5,T-BAR Steak & Lounge (Upper East Side)
+,,  $    $    $    ,Italian,Upper West Side,(2984),4.3 stars out of 5,Arte Cafe - Upper West Side
+, Takeout,  $    $    $    $  ,Korean,SoHo,(177),4.5 stars out of 5,The Woo
+,,  $    $      ,American,Upper East Side,(522),4.5 stars out of 5,Bocado Cafe
+,2,  $    $    $    ,Italian,TriBeCa - Downtown,(448),4.5 stars out of 5,Gran Morsi
+, Takeout,  $    $      ,Italian,East Village,(338),4.7 stars out of 5,Gnoccheria by Luzzo's
+,2,  $    $    $    ,Italian,Little Italy,(1070),4.3 stars out of 5,Il Cortile Restaurant
+,2,  $    $      ,Georgian,Upper East Side,(104),4.5 stars out of 5,Oda House - Upper East Side
+, Takeout,  $    $      ,Mediterranean,SoHo,(946),4.3 stars out of 5,NOMO Kitchen
+, Takeout,  $    $    $    $  ,Greek,Upper West Side,(519),4.7 stars out of 5,Elea
+,2,  $    $      ,Contemporary American,Upper East Side,(1599),4.5 stars out of 5,Sojourn Restaurant
+,2,  $    $    $    ,Italian,SoHo,(365),4.7 stars out of 5,Emporio
+,2,  $    $      ,Italian,Upper East Side,(91),4.5 stars out of 5,Numero 28
+,2,  $    $    $    ,Italian,Upper West Side,(6021),4.5 stars out of 5,Carmine's - 91st Street - NYC
+, Takeout,  $    $    $    ,American,Battery Park,(1104),4.3 stars out of 5,Merchants River House
+, Delivery partners,  $    $    $    ,Italian,Upper East Side,(337),4.5 stars out of 5,Felice 83
+,,  $    $      ,French,Lower East Side,(76),4.5 stars out of 5,LENA
+, Delivery partners,  $    $    $    ,Indian,TriBeCa - Downtown,(32),4.2 stars out of 5,Paisley Restaurant
+,2,  $    $      ,American,Upper East Side,(648),4.2 stars out of 5,Eats
+, Takeout,  $    $    $    ,French,SoHo,(502),4.6 stars out of 5,Bistro Les Amis
+,2,  $    $      ,Italian,Battery Park,(1540),4.5 stars out of 5,Gigino at Wagner Park
+,,  $    $      ,Italian,Little Italy,(1151),4.6 stars out of 5,La Mela
+,2,  $    $      ,Steakhouse,Battery Park,(395),4.4 stars out of 5,Del Frisco's Grille - Brookfield Place
+,2,  $    $    $    ,Japanese,TriBeCa - Downtown,(60),4.4 stars out of 5,Zutto Japanese American Pub
+,2,  $    $    $    $  ,American,SoHo,(162),4.2 stars out of 5,Harold's
+,2,  $    $    $    $  ,Italian,Financial District,(667),4.4 stars out of 5,Cipriani Club 55 Restaurant
+, Takeout,  $    $    $    ,Italian,SoHo,(928),4.7 stars out of 5,Aurora Soho
+,2,  $    $      ,Italian,Upper East Side,(413),4.6 stars out of 5,Italianissimo
+,2,  $    $    $    ,American,West Village,(224),4.7 stars out of 5,The Leroy House
+,2,  $    $    $    ,Italian,Upper East Side,(179),4.5 stars out of 5,IL Divo
+, Takeout,  $    $    $    ,Italian,Financial District,(34),4.3 stars out of 5,Ampia Rooftop & Gnoccheria - Wall St.
+, Takeout,  $    $    $    ,Seafood,Little Italy,(93),4.5 stars out of 5,Seamore's Nolita
+, Takeout,  $    $    $    ,Italian,SoHo,(331),4.8 stars out of 5,San Marino Soho
+, Delivery partners,  $    $    $    ,Italian,Little Italy,(174),4.3 stars out of 5,Piacere
+, Takeout,  $    $    $    $  ,French,SoHo,(70),4.5 stars out of 5,Bistrot Leo
+,2,  $    $      ,Italian,TriBeCa - Downtown,(988),4.6 stars out of 5,Gigino Trattoria
+,2,  $    $      ,Italian,NoHo,(66),4.4 stars out of 5,Quartino Bottega Organica
+, Delivery partners,  $    $    $    ,American,Upper East Side,(307),4.5 stars out of 5,Island
+,,  $    $      ,Italian,TriBeCa - Downtown,(508),4.6 stars out of 5,Max - Tribeca
+,,  $    $    $    ,Latin American,Upper West Side,(3893),4.6 stars out of 5,Calle Ocho
+,2,  $    $      ,Contemporary Asian,Lower East Side,(2021),4.7 stars out of 5,Ivan Ramen
+, Delivery partners,  $    $    $    ,Italian,Upper East Side,(106),4.4 stars out of 5,IL Carino Restaurant
+,2,  $    $      ,Comfort Food,SoHo,(603),4.7 stars out of 5,Westville Hudson
+, Delivery partners,  $    $      ,Georgian,East Village,(440),4.5 stars out of 5,Oda House
+,,  $    $      ,French,Upper East Side,(609),4.5 stars out of 5,Jean Claude 2
+,2,  $    $      ,Italian,NoLita,(175),4.5 stars out of 5,Fiat Cafe
+,2,  $    $      ,Vegetarian / Vegan,East Village,(596),4.8 stars out of 5,Divya's Kitchen
+, Takeout,  $    $      ,French,Upper West Side,(672),4.4 stars out of 5,Cafe Du Soleil
+,,  $    $      ,American,Upper East Side,(133),4.4 stars out of 5,Five Mile Stone
+,2,  $    $    $    ,Laotian,TriBeCa - Downtown,(969),4.6 stars out of 5,Khe-Yo
+,,  $    $      ,Italian,Little Italy,(748),4.5 stars out of 5,Paesano of Mulberry Street
+,2,  $    $      ,Italian,SoHo,(902),4.3 stars out of 5,Galli Restaurant SoHo
+, Takeout,  $    $      ,Cocktail Bar,Lower East Side,,,Kind Regards
+, Takeout,  $    $    $    ,Seafood,Battery Park,(100),4.4 stars out of 5,Seamore's Brookfield Place
+, Takeout,  $    $    $    $  ,Italian,SoHo,(2441),4.6 stars out of 5,Peasant
+, Takeout,  $    $    $    ,Eastern European,East Village,(406),4.7 stars out of 5,Kafana
+, Takeout,  $    $      ,Italian,Upper West Side,(276),4.8 stars out of 5,Osteria 106
+, Takeout,  $    $    $    ,Seafood,East Village,(164),4.1 stars out of 5,Lamia's Fish Market
+, Takeout,  $    $    $    ,French,SoHo,(77),4.4 stars out of 5,Troquet
+, Takeout,  $    $    $    ,French,TriBeCa - Downtown,(94),4.5 stars out of 5,Yves
+,2,  $    $      ,Vietnamese,NoLita,(129),4.4 stars out of 5,BoCaphe
+,,  $    $    $    $  ,Sushi,Gramercy / Flatiron,(67),4.5 stars out of 5,TEISUI
+,,  $    $      ,Sushi,NoMad,,,Noda
+,,  $    $      ,Mexican,Murray Hill,,,Lime Jungle
+,2,  $    $      ,Mediterranean,Murray Hill,(12),4.5 stars out of 5,Miraj Healthy Grill - Manhattan
+,,  $    $      ,Contemporary American,Chelsea,(59),3.6 stars out of 5,Madison Square Tavern
+, Delivery partners,  $    $      ,American,Midtown West,,,Bon Chon Chicken
+,,  $    $      ,Tapas / Small Plates,NoMad,(8),3.1 stars out of 5,The Blue Rooftop
+,,  $    $      ,Contemporary American,NoMad,(4),4.3 stars out of 5,114 @ THE MARMARA PARK AVENUE
+,,  $    $      ,American,Theater District / Times Square,,,Cafe Grumpy
+,,  $    $      ,American,Midtown West,,,Fika
+,2,  $    $      ,Thai,NoMad,(297),4.7 stars out of 5,Sabai Thai Restaurant
+,,  $    $      ,Gastro Pub,Garment District / Flower District,,,Harrington's
+,,  $    $      ,Barbecue,Garment District / Flower District,,,Mexicue - Times Square
+,,  $    $      ,American,Theater District / Times Square,,,Ben's Kosher Deli Restaurant
+,,  $    $      ,American,Midtown West,,,Tagine Dining Gallery
+,,  $    $      ,American,Murray Hill,(10),4.1 stars out of 5,California Pizza Kitchen - Park Avenue South - PRIORITY SEATING
+,,  $    $      ,French,Midtown West,,,Kreuther Handmade Chocolate
+,,  $    $    $    ,Greek,Chelsea,(394),3.5 stars out of 5,Mykonos Blue
+,,  $    $      ,Greek,Chelsea,(97),,Mykonos Blue Rooftop
+, Delivery partners,  $    $      ,Japanese,Chelsea,,,A Canaan Sushi
+,,  $    $      ,Lebanese,Murray Hill,(80),4 stars out of 5,Byblos - NYC
+,,  $    $      ,Sushi,Midtown West,,,L Z Sushi
+,,  $    $      ,American,Midtown East,(50),4.3 stars out of 5,Stout NYC Grand Central
+,,  $    $    $    $  ,American,Garment District / Flower District,,,Juniper Bar
+,,  $    $      ,Burgers,Midtown West,,,Cafe Thirty First
+,,  $    $      ,American,Murray Hill,,,Murray Hill Diner
+,2,  $    $      ,Latin / Spanish,Midtown West,(28),,Cafe Nunez
+,,  $    $      ,Italian,Midtown East,,,Food Trends
+, Delivery partners,  $    $      ,Gastro Pub,Gramercy / Flatiron,(20),4 stars out of 5,John Doe Bar & Kitchen
+,,  $    $      ,Mexican,NoMad,,,Mexicangrill Incorporated
+,,  $    $    $    $  ,Barbecue,Gramercy / Flatiron,,,Ziya
+,,  $    $      ,American,Garment District / Flower District,,,Johnson Club Room
+,,  $    $      ,Thai,Murray Hill,,,Toon Thai Cafe
+,,  $    $    $    $  ,Mediterranean,NoMad,(149),4.9 stars out of 5,Benno
+,,  $    $      ,Café,Gramercy / Flatiron,,,230 FIFTH
+,,  $    $      ,Asian,Garment District / Flower District,,,Ootoya - Times Square
+, Takeout,  $    $      ,Steakhouse,Murray Hill,(23),3.6 stars out of 5,Atto Prime Meats and Seafood
+,,  $    $    $    ,Fusion / Eclectic,Murray Hill,,,Grand Sichuan - Murray Hill
+,,  $    $    $    ,Italian,Gramercy / Flatiron,(155),4.6 stars out of 5,Leonelli Taberna
+,,  $    $      ,Grill,Chelsea,,,Mulberry And Vine
+,,  $    $      ,American,Chelsea,,,Mulberry & Vine
+,,  $    $      ,Sushi,Midtown West,,,Wasabi Sushi Bento
+, Takeout,  $    $      ,Asian,Murray Hill,(12),4 stars out of 5,Chef 28
+, Delivery partners,  $    $      ,Asian,Chelsea,,,Ajisen Ramen
+, Takeout,  $    $    $    ,Contemporary French,NoMad,(3),4.2 stars out of 5,Royalton Brasserie
+, Takeout,  $    $      ,Korean,Murray Hill,(74),4 stars out of 5,Atomix
+,,  $    $    $    ,Italian,Gramercy / Flatiron,(698),4 stars out of 5,Asellina Ristorante
+,2,  $    $      ,Italian,Gramercy / Flatiron,(1577),4.7 stars out of 5,La Pecora Bianca - NoMad
+,,  $    $      ,Japanese,Chelsea,,,Izumi Sushi
+,,  $    $      ,American,Murray Hill,,,Lucid Cafe
+,,  $    $    $    ,American,Midtown West,(709),3.9 stars out of 5,Seven Bistro
+,,  $    $      ,Mexican,Gramercy / Flatiron,,,Mexicue - Flatiron
+,,  $    $      ,American,Gramercy / Flatiron,,,Bread & Butter
+,,  $    $    $    ,Italian,Midtown West,(1669),4.1 stars out of 5,Lugo Cucina
+, Delivery partners,  $    $      ,Italian,Murray Hill,(1),5 stars out of 5,Vezzo
+,,  $    $      ,American,Chelsea,,,Taste Buds
+, Takeout,  $    $      ,British,Midtown West,(402),4.3 stars out of 5,Carragher’s
+,,  $    $      ,English,Chelsea,,,Triple Crown Restaurant & Ale House
+,,  $    $      ,Korean,NoMad,,,ATOBOY
+,,  $    $      ,American,Theater District / Times Square,,,Guy & Gallard
+,,  $    $      ,Grill,Gramercy / Flatiron,,,Vin Sur Vingt
+, Takeout,  $    $      ,Indian,Theater District / Times Square,(6),4.3 stars out of 5,Indian Project
+,,  $    $      ,Sushi,Murray Hill,,,Sushi Zo Midtown
+,,  $    $      ,Café,Gramercy / Flatiron,,,The Hog Pit
+,,  $    $      ,Contemporary American,Midtown West,(9),4.2 stars out of 5,St. Cloud
+,,  $    $      ,American,Midtown West,,,Back Stage Eatery
+,,  $    $      ,Comfort Food,Gramercy / Flatiron,(7),3.1 stars out of 5,Toshi's Living Room & Penthouse
+, Delivery partners,  $    $      ,American,Midtown West,,,City Cafe
+,,  $    $      ,Italian,NoMad,,,Il Fiorista
+,,  $    $      ,American,Theater District / Times Square,,,Island Cafe
+,,  $    $    $    ,Belgian,NoMad,(221),4 stars out of 5,Belgian Beer Café NoMad
+, Takeout,  $    $      ,French,Gramercy / Flatiron,(4201),3.9 stars out of 5,Les Halles Park Avenue - Permanently Closed
+,,  $    $      ,American,Murray Hill,,,The Junction
+,,  $    $      ,Italian,Murray Hill,,,Roma Nova Restaurant
+,,  $    $    $    ,Gastro Pub,Gramercy / Flatiron,(1054),3.7 stars out of 5,Resto
+,,  $    $      ,Thai,Murray Hill,,,Rhong Tiam
+,,  $    $      ,Sushi,Murray Hill,,,Mishima
+,,  $    $      ,Greek,Chelsea,,,Greek Corner
+,,  $    $      ,American,Murray Hill,,,S'mac
+, Takeout,  $    $      ,American,Theater District / Times Square,(190),3.7 stars out of 5,Ruby Tuesday - Times Square
+,,  $    $      ,Japanese,Chelsea,,,Wasabi
+,,  $    $      ,Japanese,Gramercy / Flatiron,(104),4.4 stars out of 5,Izakaya NoMad
+,,  $    $    $    ,American,Gramercy / Flatiron,(934),4.4 stars out of 5,Maysville
+,,  $    $      ,Latin American,Chelsea,,,Latin American Restaurant Corporation
+,,  $    $    $    $  ,American,NoMad,(2),4.7 stars out of 5,Black Barn Chef's Table
+,,  $    $    $    $  ,American,Murray Hill,,,Rose Bakery - DSNY
+,,  $    $    $    $  ,American,Garment District / Flower District,,,The Princeton Club of New York
+, Takeout,  $    $      ,American,Theater District / Times Square,(144),4.3 stars out of 5,Gleason's Tavern
+, Takeout,  $    $    $    ,Sushi,Midtown West,(763),4.6 stars out of 5,Sen Sakana
+,,  $    $      ,American,Midtown West,,,Ruby Tuesday
+,,  $    $      ,American,Murray Hill,,,Scottys Diner
+,,  $    $      ,Grill,Murray Hill,,,Pino Wine Bar
+,,  $    $      ,American,Chelsea,,,Lunch Cafe Incorporated
+,2,  $    $      ,Sushi,Murray Hill,(153),4 stars out of 5,Nomado 33
+, Takeout,  $    $      ,American,Midtown West,(252),3.9 stars out of 5,The Houndstooth Pub
+, Takeout,  $    $      ,American,Murray Hill,(117),4.5 stars out of 5,Cask Bar & Kitchen
+,,  $    $      ,American,Garment District / Flower District,(1),5 stars out of 5,Pershing Square
+,,  $    $      ,American,Midtown East,,,Blooms Delicatessen
+,,  $    $      ,American,Murray Hill,,,Penelope Cafe
+, Takeout,  $    $      ,Mediterranean,Murray Hill,(124),4.1 stars out of 5,Lallisse Mediterranean Wine & Food
+,,  $    $      ,Thai,Chelsea,,,Song Kran
+, Takeout,  $    $      ,American,Theater District / Times Square,(23),3.1 stars out of 5,Gotham Bistro
+,,  $    $      ,Dim Sum,Kips Bay,(55),4.3 stars out of 5,Dynasty Dim Sum
+, Takeout,  $    $      ,Low Country,Gramercy / Flatiron,(17),3.7 stars out of 5,Live Bait
+, Delivery partners,  $    $      ,Italian,Murray Hill,,,Rock Ii
+,,  $    $      ,Tapas / Small Plates,Midtown West,,,Margon Restaurant Corporation
+,,  $    $    $    ,Seafood,Chelsea,,,Francisco's Centro Vasco
+,,  $    $      ,Asian,Midtown West,,,Sunny's Best Food
+,,  $    $      ,Contemporary American,Theater District / Times Square,(33),3.5 stars out of 5,Sky Room
+,,  $    $      ,Japanese,Kips Bay,,,East Japanese Restaurant
+,,  $    $      ,Thai,Chelsea,,,Pongsri Thai
+, Delivery partners,  $    $      ,American,Murray Hill,(1),5 stars out of 5,Hill and Bay
+, Delivery partners,  $    $      ,Indian,Chelsea,(61),3.9 stars out of 5,Patiala Indian Grill
+,2,  $    $    $    ,Asian,Murray Hill,(78),4.2 stars out of 5,Sachi
+,,  $    $      ,American,Chelsea,(23),4.1 stars out of 5,The Chelsea Bell
+,,  $    $      ,Pizzeria,Theater District / Times Square,,,John's Pizzeria
+, Takeout,  $    $      ,Steak,Gramercy / Flatiron,,,Outback Steakhouse - New York
+,,  $    $    $    $  ,Kosher,Theater District / Times Square,,,Le Marais
+,,  $    $      ,Indian,Chelsea,,,Bombay Garden NY
+,,  $    $      ,American,Murray Hill,,,Town House Inn Restaurant
+, Delivery partners,  $    $      ,Vietnamese,Murray Hill,,,Sai Gon Dep
+,,  $    $      ,American,Midtown East,,,Oceana Restaurant
+, Takeout,  $    $      ,Thai,Hell's Kitchen,(17),3.9 stars out of 5,Aura Thai - NY
+,,  $    $      ,American,Rockefeller Center Midtown,,,Blake & Todd Restaurant
+,,  $    $      ,Fusion / Eclectic,Theater District / Times Square,,,Avi Taam Tov Corporation
+,,  $    $      ,American,Murray Hill,,,Albion
+, Takeout,  $    $      ,Italian,Hell's Kitchen,(367),4.3 stars out of 5,Tavola
+, Takeout,  $    $      ,Italian,Kips Bay,(20),4.3 stars out of 5,Todaro Bros Enoteca
+,2,  $    $      ,Thai,Chelsea,(295),4 stars out of 5,Thai Select
+,,  $    $    $    ,Thai,Theater District / Times Square,,,Larb Ubol
+,,  $    $      ,Barbecue,Theater District / Times Square,(13),3 stars out of 5,Sammy's House of BBQ - 44th St
+, Takeout,  $    $      ,Chinese (Sichuan),Theater District / Times Square,,,Sichuan Manor
+,,  $    $      ,American,Gramercy / Flatiron,,,Avi Baruch College-cafe Primar
+,,  $    $      ,American,Chelsea,,,World Of Beer
+,,  $    $    $    $  ,Sushi,Turtle Bay,,,Sushi Yasuda
+,,  $    $      ,American,Gramercy / Flatiron,,,Mad Hatter
+, Delivery partners,  $    $      ,Italian,Chelsea,,,Sergimmo Salumeria
+,,  $    $      ,Italian,Gramercy / Flatiron,,,Olive Garden - New York - Gramercy / Flatiron
+,,  $    $      ,Korean,Chelsea,,,Hanki
+,,  $    $      ,Grill,Chelsea,,,Twins Pub Incorporated
+, Delivery partners,  $    $      ,American,Gramercy / Flatiron,,,Sunflower Diner
+,,  $    $      ,Irish,Chelsea,(1),3.5 stars out of 5,McGarry's
+,,  $    $      ,Puerto Rican,Theater District / Times Square,,,J Casa NYC
+,,  $    $      ,American,Gramercy / Flatiron,,,Metropolitan Room
+,,  $    $    $    ,Contemporary American,Theater District / Times Square,(1158),3.6 stars out of 5,Angus' Cafe Bistro
+,,  $    $      ,Southern,Theater District / Times Square,,,East Broadway Cafe
+,,  $    $      ,American,Chelsea,,,Entertainment Connection
+, Takeout,  $    $      ,Irish,Midtown East,(223),4.6 stars out of 5,Maggie's Place
+,,  $    $      ,American,Theater District / Times Square,,,The Collage Bar & Bistro
+,,  $    $      ,Sushi,Midtown West,,,Sushi Lab - Midtown
+, Delivery partners,  $    $      ,American,Chelsea,,,Skylight Diner
+, Delivery partners,  $    $      ,American,Chelsea,,,By Chloe
+,,  $    $    $    ,Sushi,Midtown East,,,Kuruma Zushi
+,,  $    $      ,Italian,Kips Bay,,,Lena's Italian Kitchen
+,,  $    $    $    ,Japanese,Rockefeller Center Midtown,,,Katsu-Hama
+,,  $    $      ,Italian,Chelsea,,,Olive Garden
+,,  $    $      ,Sushi,Midtown West,,,Sushi Zen
+,,  $    $      ,Italian,Murray Hill,,,Abitino Pizzeria & Restaurant
+,,  $    $    $    $  ,Spanish,Murray Hill,,,El Pote
+,,  $    $      ,American,Murray Hill,,,Tuttles
+,,  $    $      ,Grill,Midtown East,,,Muldoon S Irish Pub
+,,  $    $      ,Mexican,Midtown East,,,Oaxaca Mexican Grill
+,,  $    $    $    ,American,Theater District / Times Square,,,Broadway Lounge
+,,  $    $      ,American,Theater District / Times Square,(12),3.2 stars out of 5,Highbar
+,,  $    $      ,American,Theater District / Times Square,(4),3.5 stars out of 5,Tranzit
+,,  $    $      ,American,Gramercy / Flatiron,(654),3.9 stars out of 5,Sagaponack Bar and Grill
+,,  $    $      ,American,Midtown East,,,Grand Central Star Cafe
+,,  $    $      ,Chinese,Kips Bay,,,Peace Chinese Reataurant
+,,  $    $      ,American,Midtown West,,,Evergreen Coffee Shop Restaurant
+,,  $    $      ,Vegan,Gramercy / Flatiron,,,by. CHLOE 22nd Street
+,,  $    $      ,American,Chelsea,,,Chelsea Savoy
+,,  $    $      ,European,Hell's Kitchen,,,Les Halles West
+,,  $    $      ,Japanese,Midtown East,,,Menchanko-Tei
+, Takeout,  $    $      ,American,Kips Bay,(5),4.1 stars out of 5,Bottomzup Bar & Grill NYC
+,,  $    $      ,American,Midtown East,,,Midtown Eatery Inc
+,,  $    $      ,English,Kips Bay,,,Failte
+,,  $    $      ,American,Gramercy / Flatiron,,,Brgr
+,,  $    $      ,Thai,Midtown East,,,Thai Nam Restaurant
+,,  $    $      ,Japanese,Midtown West,,,TSURUTONTAN MIDTOWN
+,,  $    $      ,Barbecue,Chelsea,,,Rub BBQ
+,,  $    $      ,Sushi,Gramercy / Flatiron,,,Organique
+,,  $    $      ,Sushi,Kips Bay,,,Kb Sushi And Dumpling House
+,,  $    $      ,American,Midtown East,,,Uncle Charlie's
+, Delivery partners,  $    $      ,Gastro Pub,Kips Bay,,,Waterfront Ale House
+,,  $    $      ,Chinese,Rockefeller Center Midtown,,,Wu Liang Ye
+,,  $    $    $    ,Sushi,Gramercy / Flatiron,,,Sushi Seki - Chelsea
+,,  $    $      ,Japanese,Midtown East,(3),5 stars out of 5,Restaurant Riki
+,,  $    $      ,American,Gramercy / Flatiron,,,Cafe Au Lait
+, Takeout,  $    $    $    ,Pizzeria,Chelsea,(25),4.1 stars out of 5,Lombardi's - Chelsea
+, Takeout,  $    $      ,Thai,Hell's Kitchen,(23),3.7 stars out of 5,Lucky Ace
+, Takeout,  $    $    $    ,Italian,Midtown East,(739),4 stars out of 5,Gente
+,,  $    $      ,American,Theater District / Times Square,(7),3 stars out of 5,Ginger's Restaurant at The Doubletree Times Square
+,,  $    $    $    $  ,Japanese,Midtown East,(618),4.5 stars out of 5,Sakagura
+,,  $    $      ,Asian,Rockefeller Center Midtown,,,Roll & Noodle
+,,  $    $      ,Kosher,Rockefeller Center Midtown,,,Cafe K
+,,  $    $    $    $  ,Steakhouse,Rockefeller Center Midtown,,,Wolf & Lamb Steakhouse & Delicatessen
+,,  $    $      ,Grill,Theater District / Times Square,,,Atomic Wings
+,,  $    $      ,American,Chelsea,,,Cafe Bravo Inc
+,2,  $    $    $    ,Mexican,Murray Hill,(1142),4.4 stars out of 5,El Parador
+,,  $    $      ,American,Rockefeller Center Midtown,,,Elis 48
+,,  $    $      ,Chinese,Murray Hill,(1),3.8 stars out of 5,Chinese Club - Murray Hill
+,,  $    $      ,Indian,Kips Bay,,,Tapa Indian Restaurant
+,,  $    $    $    ,Latin American,Gramercy / Flatiron,(1073),4.3 stars out of 5,Raymi
+,,  $    $      ,Thai,Midtown West,,,Abaya Thai Cuisine
+,,  $    $      ,Sushi,Kips Bay,,,Toyo Sushi Incorporated
+, Takeout,  $    $      ,Latin / Spanish,Murray Hill,(23),3.9 stars out of 5,Barlovento Latin Bistro
+,,  $    $      ,Chinese,Midtown West,,,Kung Fu Kitchen
+,,  $    $      ,Italian,Murray Hill,(27),4.3 stars out of 5,Sottosuolo
+,,  $    $    $    $  ,American,Theater District / Times Square,(281),3.1 stars out of 5,Above
+, Takeout,  $    $      ,Tapas / Small Plates,Murray Hill,(44),4.3 stars out of 5,Home Base Bistro
+,,  $    $      ,Vegetarian,Rockefeller Center Midtown,,,Freefoods Nyc
+,,  $    $      ,Pan-Asian,Theater District / Times Square,(93),4.1 stars out of 5,Bugis Street Brasserie and Bar Times Square
+,,  $    $      ,American,Rockefeller Center Midtown,,,Cafe 45
+,,  $    $      ,Thai,Kips Bay,,,Soi 30 Thai
+,,  $    $      ,Italian,Theater District / Times Square,,,Park Italian Gourmet Incorporated
+,,  $    $      ,Japanese,Murray Hill,,,Oka
+, Delivery partners,  $    $      ,American,Murray Hill,,,Sons Of Thunder
+, Delivery partners,  $    $    $    $  ,American,Gramercy / Flatiron,,,Tappo Pizza
+,,  $    $    $    $  ,Contemporary American,Gramercy / Flatiron,(2581),4.6 stars out of 5,Upland
+,,  $    $    $    $  ,American,Garment District / Flower District,,,Greenhouse 36
+,2,  $    $      ,Indian,Murray Hill,(10),4.2 stars out of 5,Kailash Parbat
+,,  $    $      ,Mexican,Murray Hill,,,La Biblioteca - NYC
+,,  $    $      ,American,Theater District / Times Square,,,Bubba Gump - New York
+, Takeout,  $    $    $    $  ,Italian,Midtown West,(497),3.8 stars out of 5,Re Sette
+,,  $    $      ,Greek,Midtown West,(36),4.1 stars out of 5,Fournos Theophilos
+,,  $    $      ,English,Midtown West,(157),4.2 stars out of 5,Cock and Bull
+,,  $    $    $    ,Contemporary American,Theater District / Times Square,(199),3.8 stars out of 5,URBO Kitchens - Permanently Closed
+, Delivery partners,  $    $      ,Indian,Kips Bay,,,Desi Galli
+, Delivery partners,  $    $      ,American,Theater District / Times Square,,,Dallas Bbq
+, Delivery partners,  $    $      ,Mexican,Chelsea,(62),4.3 stars out of 5,Tacombi Flatiron
+,,  $    $      ,Contemporary American,Gramercy / Flatiron,(257),4.1 stars out of 5,Bo's Kitchen & Bar Room
+,,  $    $      ,American,Hell's Kitchen,,,Cucina Express - The MetLife Building
+,,  $    $      ,Bar / Lounge / Bottle Service,Rockefeller Center Midtown,,,The Beer Bar
+,,  $    $    $    ,Steak,Gramercy / Flatiron,(1187),3.9 stars out of 5,The Hurricane Steak & Sushi - Permanently closed
+,,  $    $      ,Tapas / Small Plates,Chelsea,,,Milanese Spanish Restaurant
+, Takeout,  $    $      ,Asian,Kips Bay,(90),4.4 stars out of 5,Momokawa
+,,  $    $      ,Asian,Chelsea,,,Hoa Cafe
+,,  $    $    $    $  ,American,Gramercy / Flatiron,(4614),4.7 stars out of 5,Eleven Madison Park
+,,  $    $      ,Italian,Midtown East,,,Cucina & Co. - MetLife Building
+,,  $    $      ,American,Chelsea,(26),3.5 stars out of 5,The Blacksmith NYC Bar and Kitchen
+,,  $    $      ,Sushi,Theater District / Times Square,,,Aya Sushi
+,,  $    $      ,American,Chelsea,(5),3.7 stars out of 5,The Dog House Craft & Kitchen
+,,  $    $      ,Japanese,Murray Hill,,,160 Maguro Sushi Incorporated
+,,  $    $      ,American,Midtown East,(16),3.6 stars out of 5,The Roosevelt Grill
+,,  $    $      ,Grill,Kips Bay,,,Stone Creek
+,,  $    $      ,American,Theater District / Times Square,,,Cafe Mofongo
+,,  $    $      ,Tapas / Small Plates,Midtown West,(55),3.3 stars out of 5,The Gastro Bar
+,,  $    $      ,Chinese,Theater District / Times Square,,,Red Moon
+,,  $    $      ,Japanese,Murray Hill,,,Aki 39 Japanese Cuisine
+,,  $    $      ,Middle Eastern,Chelsea,,,Pars Grill House & Bar
+,,  $    $    $    ,Indian,Murray Hill,(677),4.2 stars out of 5,Vatan Indian Restaurant
+,,  $    $    $    ,Steakhouse,Rockefeller Center Midtown,,,Via Brasil
+,,  $    $      ,Russian,Theater District / Times Square,,,Gfic Restaurant
+,,  $    $      ,Gastro Pub,Kips Bay,,,Tonic East
+, Delivery partners,  $    $      ,Thai,Kips Bay,,,Jaiya Thai Restaurant
+,,  $    $      ,Pizzeria,Gramercy / Flatiron,,,La Piazza - Eataly NYC Flatiron
+,,  $    $      ,Sushi,Theater District / Times Square,,,Big Mama Sushi
+,,  $    $      ,Fusion / Eclectic,Chelsea,,,Potluck
+,,  $    $      ,Contemporary American,Midtown West,,,Dear Irving On Hudson
+,,  $    $      ,Burgers,Theater District / Times Square,,,Farm To Burger
+, Delivery partners,  $    $      ,Asian,Chelsea,,,Abacky
+,,  $    $      ,American,Theater District / Times Square,,,Starlight Deli
+, Delivery partners,  $    $      ,Kosher,Rockefeller Center Midtown,,,Kosher Deluxe
+,,  $    $    $    $  ,American,Rockefeller Center Midtown,,,Gotham Hotel
+,,  $    $      ,Sushi,Theater District / Times Square,,,Sushi Zen Inc
+,,  $    $      ,American,Theater District / Times Square,(150),4 stars out of 5,T45 at Hyatt Centric Times Square
+,,  $    $      ,Bar / Lounge / Bottle Service,Theater District / Times Square,(305),4.3 stars out of 5,Bar 54 at Hyatt Centric Times Square
+,,  $    $      ,American,Theater District / Times Square,,,Adventure Cafe Llc
+,,  $    $      ,Chinese,Murray Hill,,,New Six Happiness Chinese Restaurant
+, Delivery partners,  $    $      ,Italian,Chelsea,,,Bella Napoli - 7th Ave
+, Delivery partners,  $    $      ,Indian,Kips Bay,,,Saravanaas
+, Takeout,  $    $      ,American,Midtown West,(164),4 stars out of 5,O'Brien's Irish Pub
+,,  $    $    $    ,European,Gramercy / Flatiron,,,TURKISH KITCHEN
+, Delivery partners,  $    $      ,Turkish,Midtown West,(17),4.2 stars out of 5,Akdeniz
+, Delivery partners,  $    $      ,Café,Kips Bay,,,Little Basil
+,,  $    $      ,American,Rockefeller Center Midtown,,,Macchiato 3 Cafe
+,,  $    $    $    $  ,Lounge,Theater District / Times Square,,,Blue
+,,  $    $      ,Dessert,Gramercy / Flatiron,,,Chanson- Dessert Bar
+,,  $    $      ,Mexican,Gramercy / Flatiron,,,Oxido
+,,  $    $    $    ,Italian,Theater District / Times Square,,,Volare Restaurant
+,,  $    $      ,American,Chelsea,,,Knf Restaurant Corporation
+,,  $    $      ,Italian,Gramercy / Flatiron,,,Magia
+,,  $    $      ,Contemporary Italian,Midtown West,(1053),4.2 stars out of 5,Ninos 46
+, Takeout,  $    $      ,Thai,Murray Hill,(43),4.2 stars out of 5,Maison Thai
+,,  $    $    $    $  ,English,Gramercy / Flatiron,(1399),4.5 stars out of 5,The Clocktower
+,,  $    $      ,Greek,Midtown East,,,Kale
+,,  $    $      ,American,Gramercy / Flatiron,,,Institute of Culinary Education
+,,  $    $      ,Fusion / Eclectic,Chelsea,,,Mad for Chicken
+,,  $    $      ,Japanese,Murray Hill,,,251 Ginza Sushi
+,,  $    $      ,Seafood,Chelsea,,,Fishing Restaurant Zauo
+, Delivery partners,  $    $    $    ,Sushi,Kips Bay,,,Oishi Bay
+, Delivery partners,  $    $      ,Café,Murray Hill,(1),,Gemini Diner
+, Delivery partners,  $    $      ,Pizzeria,Murray Hill,,,Garlic Pizza Bar
+, Delivery partners,  $    $      ,Mexican,Murray Hill,,,Baby Bos
+,,  $    $      ,Grill,Kips Bay,,,Tavern On Third
+,2,  $    $    $    ,American,Hell's Kitchen,(57),3.6 stars out of 5,Hudson Station
+, Takeout,  $    $      ,Italian,Murray Hill,(93),3.8 stars out of 5,Notaro
+,,  $    $      ,American,Chelsea,,,Edamam
+,,  $    $    $    $  ,Chinese,Midtown West,(3478),4.5 stars out of 5,Hakkasan - New York
+,,  $    $      ,Italian,Chelsea,,,Cavallo's Of Chelsea
+,,  $    $      ,Latin American,Chelsea,,,Latin American Restaurant Corporation
+,,  $    $    $    $  ,American,NoMad,(2),4.7 stars out of 5,Black Barn Chef's Table
+,,  $    $    $    $  ,American,Murray Hill,,,Rose Bakery - DSNY
+,,  $    $    $    $  ,American,Garment District / Flower District,,,The Princeton Club of New York
+, Takeout,  $    $      ,American,Theater District / Times Square,(144),4.3 stars out of 5,Gleason's Tavern
+, Takeout,  $    $    $    ,Sushi,Midtown West,(763),4.6 stars out of 5,Sen Sakana
+,,  $    $      ,American,Midtown West,,,Ruby Tuesday
+,,  $    $      ,American,Murray Hill,,,Scottys Diner
+,,  $    $      ,Grill,Murray Hill,,,Pino Wine Bar
+,,  $    $      ,American,Chelsea,,,Lunch Cafe Incorporated
+,2,  $    $      ,Sushi,Murray Hill,(153),4 stars out of 5,Nomado 33
+, Takeout,  $    $      ,American,Midtown West,(252),3.9 stars out of 5,The Houndstooth Pub
+, Takeout,  $    $      ,American,Murray Hill,(117),4.5 stars out of 5,Cask Bar & Kitchen
+,,  $    $      ,American,Garment District / Flower District,(1),5 stars out of 5,Pershing Square
+,,  $    $      ,American,Midtown East,,,Blooms Delicatessen
+,,  $    $      ,American,Murray Hill,,,Penelope Cafe
+, Takeout,  $    $      ,Mediterranean,Murray Hill,(124),4.1 stars out of 5,Lallisse Mediterranean Wine & Food
+,,  $    $    $    $  ,American,Gramercy / Flatiron,,,Amore Cafe - Holiday Inn
+,,  $    $      ,American,Midtown West,(264),4 stars out of 5,American Whiskey
+,,  $    $      ,American,Midtown East,,,Orens Dally Roast Grand Central Cafe
+,,  $    $      ,Italian,Midtown East,(4),3.2 stars out of 5,The Flavors of Italy
+,,  $    $      ,Mexican,Garment District / Flower District,,,Tequilaville
+,,  $    $      ,American,Midtown West,,,Burger and Lobster Bryant Park
+,,  $    $    $    $  ,Italian,Gramercy / Flatiron,(1630),4.1 stars out of 5,A Voce Madison
+, Takeout,  $    $      ,Dining Bar,Murray Hill,(72),4 stars out of 5,Empellon Al Pastor (Murray Hill)
+,,  $    $      ,American,Midtown West,,,Amelia
+,,  $    $      ,English,Garment District / Flower District,,,Annie Moore's Bar & Restaurant
+,,  $    $    $    ,Steakhouse,Midtown East,(49),3.5 stars out of 5,La Carne Grill
+,,  $    $      ,American,Murray Hill,,,Cafe Eighty Eight Incorporated
+, Takeout,  $    $      ,Greek,Murray Hill,(113),4 stars out of 5,Ethos Meze
+,,  $    $      ,Ramen,Murray Hill,(16),4.2 stars out of 5,Yamato Ramen
+,,  $    $      ,Spanish,Midtown West,(888),4.5 stars out of 5,Boqueria West 40th Street
+,,  $    $      ,American,Midtown West,,,Cafe Inc
+, Delivery partners,  $    $      ,Italian,Murray Hill,(5),4 stars out of 5,Libretto's Pizza
+,,  $    $      ,Grill,Midtown East,,,Tri Tip Grill
+, Takeout,  $    $      ,Italian,Chelsea,(6),3.4 stars out of 5,Prime Cafe
+,,  $    $      ,American,Chelsea,,,Hill Country Chicken - NoMad
+,,  $    $      ,Asian,Murray Hill,,,Ramen Takumi
+,,  $    $      ,Burgers,Murray Hill,,,Bareburger
+,,  $    $      ,American,Midtown East,,,Campbell (the)
+,,  $    $      ,Mexican,Murray Hill,,,Blockheads Burritos
+,,  $    $      ,Chinese,Murray Hill,,,Panda East Restaurant Incorporated
+, Takeout,  $    $    $    $  ,Sushi,Theater District / Times Square,(26),4.1 stars out of 5,Sushi Zen - Permanently Closed
+,,  $    $      ,Mexican,Murray Hill,,,Caliente Cab Co
+,,  $    $      ,American,Midtown West,,,Wakamba Restaurant & Tavern
+,,  $    $      ,Indian,Theater District / Times Square,,,Bombay Couriers
+, Takeout,  $    $      ,American,Chelsea,(110),4.2 stars out of 5,Crompton Ale House
+,2,  $    $      ,Indian,Murray Hill,(28),4.2 stars out of 5,Tiffin Wallah
+, Delivery partners,  $    $      ,American,Murray Hill,,,Sticky's Finger Joint
+, Delivery partners,  $    $      ,American,Murray Hill,,,Sertino's Cafe
+,,  $    $    $    ,Sushi,Murray Hill,,,Aji Sushi
+,,  $    $      ,American,Midtown West,,,Red Flame Coffee Shop
+,,  $    $    $    $  ,American,Rockefeller Center Midtown,,,The Blue Bar at The Algonquin Hotel
+,,  $    $      ,Café,Gramercy / Flatiron,,,Blue Dog Cafe
+,,  $    $    $    ,Contemporary American,Chelsea,(480),3.9 stars out of 5,40/40 Club
+,,  $    $      ,Middle Eastern,Chelsea,,,Epice
+,,  $    $      ,Tapas / Small Plates,Murray Hill,,,Bubo
+, Takeout,  $    $      ,American,Chelsea,,,Blarney Stone - NYC
+, Delivery partners,  $    $    $    ,Spanish,Murray Hill,,,Sophie's Cuban Cuisine
+,,  $    $    $    ,Italian,Theater District / Times Square,,,Piccolo Cafe - 40th St
+,,  $    $      ,Scandinavian,Midtown East,(30),4.4 stars out of 5,THE BAR at Great Northern Food Hall
+,,  $    $    $    ,Nordic,Midtown East,(406),4.5 stars out of 5,Agern
+,,  $    $      ,Japanese,Rockefeller Center Midtown,,,Azusa of Japan
+,,  $    $      ,Gastro Pub,Gramercy / Flatiron,,,Rogue
+, Takeout,  $    $    $    ,French,Theater District / Times Square,(4409),4.4 stars out of 5,Cafe Un Deux Trois
+, Takeout,  $    $      ,Sushi,Murray Hill,(9),4.1 stars out of 5,Nana Sushi - NYC
+,,  $    $      ,American,Chelsea,,,Kobeyaki
+,,  $    $      ,Chinese,Theater District / Times Square,,,Wok To Walk
+,,  $    $      ,American,Midtown West,,,Ny Rainbow Cafe Corporation
+,,  $    $    $    ,Steakhouse,Rockefeller Center Midtown,,,Makers & Merchants
+, Takeout,  $    $    $    ,Seafood,Murray Hill,(37),4.3 stars out of 5,Wild Edibles Oyster Bar
+,,  $    $      ,Italian,Chelsea,,,Dolce Italian
+, Delivery partners,  $    $      ,Indian,Kips Bay,,,Curry In A Hurry
+,,  $    $      ,Café,Chelsea,,,Taboo Lounge
+, Takeout,  $    $      ,Pizzeria,Midtown East,(13),4 stars out of 5,Prova Pizzabar
+, Takeout,  $    $      ,Mexican / Southwestern,Murray Hill,(328),4.2 stars out of 5,El Rio Grande
+,,  $    $      ,Middle Eastern,Murray Hill,,,Hummus Kitchen
+,,  $    $    $    $  ,Café,Kips Bay,,,Turnmill Bar
+, Takeout,  $    $    $    ,Contemporary American,Murray Hill,(299),4.3 stars out of 5,Hendriks
+,,  $    $      ,Thai,Murray Hill,,,Talent Thai Kitchen
+,,  $    $      ,Burgers,Chelsea,,,Brgr
+,,  $    $      ,Latin American,Chelsea,,,Riko Peruvian Cuisine
+,,  $    $    $    $  ,American,Murray Hill,,,Babylon Hookah Lounge - Murray Hill
+,,  $    $      ,American,Midtown West,(11),3.4 stars out of 5,Point Break NYC
+,,  $    $    $    ,Sushi,Kips Bay,,,Aki Sushi - Gramercy Park
+,,  $    $      ,Seafood,Midtown West,,,Aquario Cafe
+,,  $    $      ,American,Murray Hill,,,Moonstruck East Restaurant
+,,  $    $      ,American,Chelsea,,,Molly Wee Pub
+, Takeout,  $    $    $    ,Greek,Gramercy / Flatiron,(880),4 stars out of 5,Eros Restaurant (fka Ethos Taverna)
+,,  $    $    $    ,Barbecue,Gramercy / Flatiron,(295),4.1 stars out of 5,Jazz Standard
+,,  $    $    $    ,Sushi,Kips Bay,,,Iron Sushi
+,2,  $    $      ,Indian,Murray Hill,(232),4.2 stars out of 5,Chote Nawab
+, Takeout,  $    $      ,Indian,Murray Hill,(20),4.5 stars out of 5,Kurry Pavilion
+,,  $    $      ,Chinese,Midtown West,,,Rising Dragon
+,,  $    $      ,American,Midtown West,,,Times Restaurant And Bar
+,,  $    $    $    ,Greek,Gramercy / Flatiron,(20),4.1 stars out of 5,Sir Henri Penthouse Rooftop
+,,  $    $      ,Japanese,Murray Hill,(1),4 stars out of 5,New Hane Sushi - Permanently Closed
+, Takeout,  $    $    $    ,Italian,Gramercy / Flatiron,(23),4.2 stars out of 5,Capatosta - Permanently Closed
+,,  $    $    $    $  ,Indian,Gramercy / Flatiron,(284),4.4 stars out of 5,Junoon Patiala Room
+,,  $    $      ,American,Theater District / Times Square,,,Jimmy's Corner
+,,  $    $      ,American,Midtown West,,,Chick Pea At Penn Station
+, Takeout,  $    $      ,Barbecue,Gramercy / Flatiron,(184),3.7 stars out of 5,Mason Jar
+,,  $    $    $    ,Seafood,Gramercy / Flatiron,(443),4.3 stars out of 5,L&W Oyster Co
+,,  $    $      ,Cajun,Murray Hill,,,Sugar Freak
+,,  $    $      ,Grill,NoMad,,,Marthita's Bar & Grill
+,,  $    $    $    ,Italian,Chelsea,(47),4.2 stars out of 5,Wine Disciples Enoteca - Permanently Closed
+,,  $    $    $    $  ,Café,Murray Hill,,,Lalibela Ethiopian Restaurant
+,,  $    $      ,American,Chelsea,,,Porchlight
+,,  $    $    $    ,American,Murray Hill,,,PS450
+,,  $    $      ,American,Chelsea,(177),4.3 stars out of 5,Till & Sprocket
+,,  $    $      ,American,Chelsea,,,Blue Elephant Cuisine
+,,  $    $      ,American,Garment District / Flower District,,,Forground
+,,  $    $      ,American,Midtown East,,,Essen
+,,  $    $      ,American,Theater District / Times Square,,,Arno Ristorante
+, Takeout,  $    $    $    ,Italian,Gramercy / Flatiron,(135),4.5 stars out of 5,PN wood fired pizza
+,,  $    $      ,American,Garment District / Flower District,,,Green Kitchen
+,,  $    $      ,Greek,Midtown West,(5),3.7 stars out of 5,Lemony
+,,  $    $    $    $  ,Sushi,Gramercy / Flatiron,(67),4.5 stars out of 5,TEISUI
+,,  $    $      ,Sushi,NoMad,,,Noda
+,,  $    $      ,Mexican,Murray Hill,,,Lime Jungle
+,2,  $    $      ,Mediterranean,Murray Hill,(12),4.5 stars out of 5,Miraj Healthy Grill - Manhattan
+,,  $    $      ,Contemporary American,Chelsea,(59),3.6 stars out of 5,Madison Square Tavern
+, Delivery partners,  $    $      ,American,Midtown West,,,Bon Chon Chicken
+,,  $    $      ,Contemporary American,NoMad,(4),4.3 stars out of 5,114 @ THE MARMARA PARK AVENUE
+,,  $    $      ,Tapas / Small Plates,NoMad,(8),3.1 stars out of 5,The Blue Rooftop
+,,  $    $      ,American,Theater District / Times Square,,,Cafe Grumpy
+,,  $    $      ,American,Midtown West,,,Fika
+,2,  $    $      ,Thai,NoMad,(297),4.7 stars out of 5,Sabai Thai Restaurant
+,,  $    $      ,Gastro Pub,Garment District / Flower District,,,Harrington's
+,,  $    $      ,Barbecue,Garment District / Flower District,,,Mexicue - Times Square
+,,  $    $      ,American,Theater District / Times Square,,,Ben's Kosher Deli Restaurant
+,,  $    $      ,American,Midtown West,,,Tagine Dining Gallery
+,,  $    $      ,American,Murray Hill,(10),4.1 stars out of 5,California Pizza Kitchen - Park Avenue South - PRIORITY SEATING
+,,  $    $      ,French,Midtown West,,,Kreuther Handmade Chocolate
+,,  $    $      ,Greek,Chelsea,(97),,Mykonos Blue Rooftop
+,,  $    $    $    ,Greek,Chelsea,(394),3.5 stars out of 5,Mykonos Blue
+, Delivery partners,  $    $      ,Japanese,Chelsea,,,A Canaan Sushi
+,,  $    $      ,Lebanese,Murray Hill,(80),4 stars out of 5,Byblos - NYC
+,,  $    $      ,Sushi,Midtown West,,,L Z Sushi
+,,  $    $      ,American,Midtown East,(50),4.3 stars out of 5,Stout NYC Grand Central
+,,  $    $    $    $  ,American,Garment District / Flower District,,,Juniper Bar
+,,  $    $      ,Burgers,Midtown West,,,Cafe Thirty First
+,,  $    $      ,American,Murray Hill,,,Murray Hill Diner
+,2,  $    $      ,Latin / Spanish,Midtown West,(28),,Cafe Nunez
+,,  $    $      ,Italian,Midtown East,,,Food Trends
+, Delivery partners,  $    $      ,Gastro Pub,Gramercy / Flatiron,(20),4 stars out of 5,John Doe Bar & Kitchen
+,,  $    $      ,Mexican,NoMad,,,Mexicangrill Incorporated
+,,  $    $    $    $  ,Barbecue,Gramercy / Flatiron,,,Ziya
+,,  $    $      ,American,Garment District / Flower District,,,Johnson Club Room
+,,  $    $      ,Thai,Murray Hill,,,Toon Thai Cafe
+,,  $    $    $    $  ,Mediterranean,NoMad,(149),4.9 stars out of 5,Benno
+,,  $    $      ,Café,Gramercy / Flatiron,,,230 FIFTH
+,,  $    $      ,Asian,Garment District / Flower District,,,Ootoya - Times Square
+, Takeout,  $    $      ,Steakhouse,Murray Hill,(23),3.6 stars out of 5,Atto Prime Meats and Seafood
+,,  $    $    $    ,Fusion / Eclectic,Murray Hill,,,Grand Sichuan - Murray Hill
+,,  $    $    $    ,Italian,Gramercy / Flatiron,(155),4.6 stars out of 5,Leonelli Taberna
+,,  $    $      ,Grill,Chelsea,,,Mulberry And Vine
+,,  $    $      ,American,Chelsea,,,Mulberry & Vine
+,,  $    $      ,Sushi,Midtown West,,,Wasabi Sushi Bento
+, Takeout,  $    $      ,Asian,Murray Hill,(12),4 stars out of 5,Chef 28
+, Delivery partners,  $    $      ,Asian,Chelsea,,,Ajisen Ramen
+, Takeout,  $    $    $    ,Contemporary French,NoMad,(3),4.2 stars out of 5,Royalton Brasserie
+, Takeout,  $    $      ,Korean,Murray Hill,(74),4 stars out of 5,Atomix
+,,  $    $    $    ,Italian,Gramercy / Flatiron,(698),4 stars out of 5,Asellina Ristorante
+,2,  $    $      ,Italian,Gramercy / Flatiron,(1577),4.7 stars out of 5,La Pecora Bianca - NoMad
+,,  $    $      ,Japanese,Chelsea,,,Izumi Sushi
+,,  $    $      ,American,Murray Hill,,,Lucid Cafe
+,,  $    $    $    ,American,Midtown West,(709),3.9 stars out of 5,Seven Bistro
+,,  $    $      ,Mexican,Gramercy / Flatiron,,,Mexicue - Flatiron
+,,  $    $      ,American,Gramercy / Flatiron,,,Bread & Butter
+,,  $    $    $    ,Italian,Midtown West,(1669),4.1 stars out of 5,Lugo Cucina
+, Delivery partners,  $    $      ,Italian,Murray Hill,(1),5 stars out of 5,Vezzo
+,,  $    $      ,American,Chelsea,,,Taste Buds
+, Takeout,  $    $      ,British,Midtown West,(402),4.3 stars out of 5,Carragher’s
+,,  $    $      ,English,Chelsea,,,Triple Crown Restaurant & Ale House
+,,  $    $      ,Korean,NoMad,,,ATOBOY
+,,  $    $      ,American,Theater District / Times Square,,,Guy & Gallard
+,,  $    $      ,Grill,Gramercy / Flatiron,,,Vin Sur Vingt
+, Takeout,  $    $      ,Indian,Theater District / Times Square,(6),4.3 stars out of 5,Indian Project
+,,  $    $      ,Sushi,Murray Hill,,,Sushi Zo Midtown
+,,  $    $      ,Café,Gramercy / Flatiron,,,The Hog Pit
+,,  $    $      ,Contemporary American,Midtown West,(9),4.2 stars out of 5,St. Cloud
+,,  $    $      ,American,Midtown West,,,Back Stage Eatery
+,,  $    $      ,Comfort Food,Gramercy / Flatiron,(7),3.1 stars out of 5,Toshi's Living Room & Penthouse
+, Delivery partners,  $    $      ,American,Midtown West,,,City Cafe
+,,  $    $      ,Italian,NoMad,,,Il Fiorista
+,,  $    $      ,American,Theater District / Times Square,,,Island Cafe
+,,  $    $    $    ,Belgian,NoMad,(221),4 stars out of 5,Belgian Beer Café NoMad
+, Takeout,  $    $      ,French,Gramercy / Flatiron,(4201),3.9 stars out of 5,Les Halles Park Avenue - Permanently Closed
+,,  $    $      ,American,Murray Hill,,,The Junction
+,,  $    $      ,Italian,Murray Hill,,,Roma Nova Restaurant
+,,  $    $    $    ,Gastro Pub,Gramercy / Flatiron,(1054),3.7 stars out of 5,Resto
+,,  $    $      ,Thai,Murray Hill,,,Rhong Tiam
+,,  $    $      ,Sushi,Murray Hill,,,Mishima
+,,  $    $      ,Greek,Chelsea,,,Greek Corner
+,,  $    $      ,American,Murray Hill,,,S'mac
+, Takeout,  $    $      ,American,Theater District / Times Square,(190),3.7 stars out of 5,Ruby Tuesday - Times Square
+,,  $    $      ,Japanese,Chelsea,,,Wasabi
+,,  $    $      ,Japanese,Gramercy / Flatiron,(104),4.4 stars out of 5,Izakaya NoMad
+,,  $    $    $    ,American,Gramercy / Flatiron,(934),4.4 stars out of 5,Maysville
+, Delivery partners,  $    $      ,Chinese,Garment District / Flower District,,,Shanghai Mong
+,,  $    $      ,Steakhouse,Murray Hill,,,Carnem
+, Takeout,  $    $    $    ,Australian,Midtown West,(140),4.3 stars out of 5,The Australian
+,,  $    $      ,Japanese,NoMad,,,Konbini
+,,  $    $      ,Korean,NoMad,,,Kunjip Restaurant
+,,  $    $      ,Japanese,Midtown East,(7),3.5 stars out of 5,Kirakuya
+,,  $    $      ,Italian,Midtown West,,,Cafe Bonjour Deli & Pizza
+,,  $    $      ,Kosher,Murray Hill,,,Third Floor Cafe
+,,  $    $      ,Bar / Lounge / Bottle Service,Midtown West,,,Ava Social
+,,  $    $    $    ,Steakhouse,Midtown East,(610),4.2 stars out of 5,Charlie Palmer Steak
+,,  $    $    $    ,Latin American,Midtown West,(12),4 stars out of 5,Paloma at the Hendricks
+,,  $    $      ,Grill,Midtown East,,,Ditmars Station Pub & Restaurant
+,,  $    $      ,Latin American,Murray Hill,,,Tina's Restaurant
+,,  $    $    $    ,American,Garment District / Flower District,(10),3.5 stars out of 5,Spyglass Rooftop Bar
+,,  $    $      ,American,Midtown East,,,Nanoosh
+,,  $    $    $    $  ,American,Garment District / Flower District,,,Cuisine's at Holiday Inn Midtown
+,,  $    $    $    $  ,American,Murray Hill,,,Hangawi
+,,  $    $      ,Cocktail Bar,Theater District / Times Square,(545),4.4 stars out of 5,Calle Dao - Bryant Park
+,,  $    $      ,Italian,Murray Hill,,,Fero
+,,  $    $      ,American,Murray Hill,,,Studio Square
+,,  $    $    $    $  ,Sushi,Murray Hill,,,Sushi Sen-nin
+,,  $    $      ,American,Garment District / Flower District,,,Sarabeth's
+,,  $    $    $    ,Sushi,Midtown East,(65),3.8 stars out of 5,IchiUmi - NYC
+,,  $    $      ,Contemporary American,Midtown East,(5),3.8 stars out of 5,The Den - Hyatt Herald Square
+,,  $    $      ,Gastro Pub,Midtown West,(2),3.1 stars out of 5,Up on 20 - Hyatt Herald Square
+,,  $    $      ,Italian,Midtown East,,,Piccolo Cafe - Madison Ave
+,,  $    $    $    ,Mediterranean,Garment District / Flower District,,,Cucina & Co. - Macy's
+, Delivery partners,  $    $    $    ,Kosher,Garment District / Flower District,,,Mr Broadway
+,,  $    $    $    ,Kosher,Garment District / Flower District,,,Tijuana Joe?s
+, Delivery partners,  $    $      ,North African,Garment District / Flower District,,,Colbeh Restaurant
+,,  $    $      ,Middle Eastern,Midtown East,,,Lamalo
+,,  $    $      ,Kosher,Garment District / Flower District,,,Pitopia
+,,  $    $      ,American,Midtown East,,,The Heights
+,,  $    $    $    ,American,Garment District / Flower District,,,Savory Labs
+,,  $    $      ,American,Midtown West,,,Cafe Au Bon Gout
+,,  $    $      ,Chinese,Midtown West,,,Asia Culture Inc
+,,  $    $      ,Korean,NoMad,(18),4.3 stars out of 5,Turntable Chicken Rock
+, Takeout,  $    $      ,Indian,Midtown West,(2),,Curry Dream Indian Restaurant
+,,  $    $      ,Korean,Gramercy / Flatiron,(27),4.5 stars out of 5,Her Name is Han
+,,  $    $      ,American,Midtown West,,,Herald Square Cafe
+,,  $    $      ,American,Hell's Kitchen,,,Chef Street
+,,  $    $      ,Indian,Midtown West,,,The Kati Roll Company Inc
+,,  $    $    $    $  ,American,Garment District / Flower District,,,Japas38
+,,  $    $      ,American,Midtown West,,,Stout NYC
+,,  $    $      ,American,Midtown West,,,Six-o Restaurant
+,,  $    $      ,American,Garment District / Flower District,,,Macaron Cafe
+,,  $    $      ,American,Garment District / Flower District,,,Windfall Bar and Restaurant
+,,  $    $      ,American,Gramercy / Flatiron,,,Tung Sing Restaurant
+,,  $    $      ,Indian,Chelsea,,,Vatan Indian Restaurant
+, Takeout,  $    $      ,Irish,Murray Hill,(7),3.6 stars out of 5,The Long Hall
+,,  $    $      ,Grill,Midtown West,,,Barlney Rock Restaurant
+,,  $    $    $    $  ,American,Murray Hill,,,Hotel Grand Union
+,,  $    $      ,American,Midtown West,,,Salt And Pepper
+, Takeout,  $    $      ,Chinese,Murray Hill,(4),,Shanghai Broadway Restaurant
+, Delivery partners,  $    $      ,Contemporary Indian,Midtown East,(4),4.3 stars out of 5,Masala King
+,,  $    $    $    $  ,American,Murray Hill,,,The Cutting Room
+,,  $    $    $    ,American,Midtown West,(663),4.2 stars out of 5,Pennsylvania 6 - NYC
+,,  $    $      ,Vegan,Midtown East,,,by. CHLOE Fashion District
+,,  $    $      ,American,Chelsea,(8),3 stars out of 5,Holland House  NYC
+,,  $    $      ,Vegan,Midtown West,(33),4.5 stars out of 5,Beyond Sushi - Herald Square
+, Takeout,  $    $    $    ,American,Midtown East,(290),4.4 stars out of 5,Spoon Table & Bar
+, Takeout,  $    $      ,Contemporary Mexican,NoMad,,,Cantina Bella
+,,  $    $      ,Middle Eastern,Murray Hill,,,Ravagh - Madison Avenue
+, Delivery partners,  $    $      ,Vegetarian,Murray Hill,,,Franchia
+,,  $    $      ,American,Gramercy / Flatiron,,,Henri On Fifth
+,,  $    $    $    ,French,Murray Hill,(5937),3.9 stars out of 5,Artisanal Fromagerie Bistro & Wine Bar
+,,  $    $      ,American,Midtown West,(4477),4.1 stars out of 5,Bryant Park Grill
+, Takeout,  $    $      ,Greek,Midtown West,(3),4.4 stars out of 5,Fournos Theophilos - 7th AVE
+,,  $    $      ,American,Midtown East,,,Mendy S Restaurant
+,,  $    $      ,American,Garment District / Flower District,,,Sun Sun Rest.
+,,  $    $      ,Japanese,Murray Hill,,,Nonono
+,,  $    $    $    $  ,American,Garment District / Flower District,,,Deweys Pub
+,,  $    $      ,American,Garment District / Flower District,,,Andrews 35 St Coffee Shop
+, Delivery partners,  $    $      ,American,Midtown West,,,Bread & Butter
+,,  $    $      ,Mediterranean,Midtown West,(2),,Nanoosh
+,,  $    $      ,American,Garment District / Flower District,,,Marika
+,,  $    $      ,American,Midtown West,,,Henry
+,,  $    $      ,Contemporary American,Murray Hill,,,The Raines Law Room at The William
+,,  $    $      ,American,Midtown West,,,Cafe Del Sol Incorporated
+,,  $    $      ,American,Chelsea,,,Ferris at Made Hotel
+, Takeout,  $    $    $    ,Kosher,Theater District / Times Square,(91),4.2 stars out of 5,Abigael's Restaurant
+, Delivery partners,  $    $      ,Sushi,Murray Hill,,,Akura Sushi
+,,  $    $      ,French,Midtown East,,,Marche Madison
+,,  $    $    $    ,British,Midtown East,(370),4.4 stars out of 5,The Shakespeare
+,2,  $    $      ,Afternoon Tea,Murray Hill,(20),4.7 stars out of 5,Blank Slate Tea
+, Takeout,  $    $      ,Irish,Murray Hill,(3),3.1 stars out of 5,Mulligan's Pub
+,,  $    $      ,Portuguese,Chelsea,,,Lupulo
+,,  $    $    $    ,American,Midtown West,(422),4.3 stars out of 5,VERSA
+,,  $    $      ,American,Chelsea,(2),,La Mesa de Paul Restaurant @ The Paul Hotel NYC
+,,  $    $      ,Scandinavian,Murray Hill,(491),4 stars out of 5,Smorgas Chef @ Scandinavia House
+, Takeout,  $    $    $    ,Latin / Spanish,Midtown West,(59),3.4 stars out of 5,Jimmy's 38 NYC
+,,  $    $    $    ,Asian,Midtown West,(1),5 stars out of 5,Karuma Asian Supper Club
+,,  $    $      ,Gastro Pub,Garment District / Flower District,,,Local West
+,,  $    $    $    $  ,American,Garment District / Flower District,,,Lucy's Cantina Royale
+,,  $    $    $    ,American,Midtown East,(142),4.2 stars out of 5,The Shop - Andaz Fifth Avenue
+,,  $    $      ,Grill,Garment District / Flower District,,,John Sullivan's
+, Takeout,  $    $      ,Gastro Pub,Murray Hill,(257),3.8 stars out of 5,The Crooked Knife
+,,  $    $    $    $  ,Chinese,Midtown West,(33),3.8 stars out of 5,DaDong NY - Chef's Tasting Floor
+, Delivery partners,  $    $      ,American,Midtown East,,,Between The Bread
+,,  $    $      ,Italian,Midtown East,,,Vini e Fritti
+,,  $    $    $    $  ,Contemporary American,Theater District / Times Square,(163),4.8 stars out of 5,701West
+,,  $    $      ,Ramen,Midtown East,,,Oki Poke Ramen
+, Takeout,  $    $    $    ,Italian,Gramercy / Flatiron,(810),4.4 stars out of 5,Obica Mozzarella Bar  Pizza e Cucina
+,,  $    $      ,Italian,Midtown West,(520),4 stars out of 5,Il Forno
+,,  $    $    $    ,Mediterranean,Theater District / Times Square,(51),4.5 stars out of 5,NISI
+,,  $    $    $    $  ,Steakhouse,Midtown East,(3369),4.5 stars out of 5,Sparks Steak House
+, Takeout,  $    $      ,Korean,Midtown West,(46),4.2 stars out of 5,New York Kimchi
+,,  $    $    $    $  ,American,Theater District / Times Square,(63),4.4 stars out of 5,Paradise Club
+,2,  $    $    $    ,Indian,Kips Bay,(2),4.3 stars out of 5,Mughlai Indian Cuisine
+,2,  $    $      ,Italian,Hell's Kitchen,(64),4.3 stars out of 5,Nittis
+,,  $    $      ,Tapas / Small Plates,Rockefeller Center Midtown,(246),4 stars out of 5,48 Lounge
+,,  $    $      ,Mexican,Midtown West,(601),4.1 stars out of 5,Margarita Saloon Bar and Grill
+, Takeout,  $    $      ,Italian,Murray Hill,(311),4.5 stars out of 5,Patrizia's of 2nd Avenue
+, Delivery partners,  $    $      ,Indian,Midtown East,(597),4.1 stars out of 5,1 Darbar
+,,  $    $    $    ,Contemporary American,Theater District / Times Square,(1),5 stars out of 5,The Bar at 701West
+,,  $    $      ,Italian,Theater District / Times Square,,,Secret Room NYC
+, Takeout,  $    $      ,American,Hell's Kitchen,(701),4.2 stars out of 5,The New York Beer Company
+,,  $    $      ,Cocktail Bar,Midtown West,(155),4.4 stars out of 5,The Polynesian
+, Takeout,  $    $      ,American,Chelsea,(47),4.2 stars out of 5,The Copper Still - West
+, Takeout,  $    $    $    ,Greek,Gramercy / Flatiron,(2152),4.6 stars out of 5,Periyali
+, Takeout,  $    $      ,American,Theater District / Times Square,(1),4.2 stars out of 5,Friedman's - Theater District
+,,  $    $    $    ,Italian,Chelsea,(84),4.2 stars out of 5,Arte Cafe - Chelsea
+,2,  $    $      ,Italian,Midtown West,(784),4.3 stars out of 5,Pasta Lovers Trattoria
+, Takeout,  $    $      ,Indian,Theater District / Times Square,(2),3.5 stars out of 5,India at Time Square
+,,  $    $    $    ,French,Theater District / Times Square,,,Brasserie Athenee
+,,  $    $      ,Japanese,Gramercy / Flatiron,(215),4.5 stars out of 5,Natsumi Tapas
+, Takeout,  $    $      ,Italian,Gramercy / Flatiron,(593),4.6 stars out of 5,Bread & Tulips
+, Takeout,  $    $    $    ,Mediterranean,Chelsea,(32),4.1 stars out of 5,Champignon
+, Takeout,  $    $      ,Chinese (Shanghai),Chelsea,(8),3.9 stars out of 5,Baodega
+, Takeout,  $    $      ,Italian,Theater District / Times Square,(18092),4.6 stars out of 5,Carmine's - 44th Street - NYC
+,,  $    $    $    ,Contemporary American,Midtown East,(71),4.2 stars out of 5,The Parlour @ InterContinental New York Barclay
+, Takeout,  $    $      ,Irish,Theater District / Times Square,(371),4.4 stars out of 5,The Mean Fiddler
+,,  $    $    $    ,American,Gramercy / Flatiron,(513),4.5 stars out of 5,Harding's
+, Takeout,  $    $      ,American,Theater District / Times Square,(178),3.5 stars out of 5,Buffalo Wild Wings - Times Square
+,,  $    $    $    ,Pub,Midtown East,(17),4.6 stars out of 5,Blackwell's
+, Takeout,  $    $      ,Contemporary American,Chelsea,,,Merchants NY
+, Takeout,  $    $    $    ,Italian,Hell's Kitchen,(106),4.3 stars out of 5,Don Giovanni's - Times Square
+,2,  $    $    $    ,Mexican,Kips Bay,(7),4.4 stars out of 5,Mexico Lindo
+,,  $    $    $    $  ,Italian,Gramercy / Flatiron,(127),4.5 stars out of 5,Il Mulino Prime - Gramercy
+,,  $    $    $    $  ,French / Japanese,Midtown West,(22),5 stars out of 5,Chef's Table at Brooklyn Fare
+,,  $    $    $    $  ,Contemporary American,Rockefeller Center Midtown,(93),4.5 stars out of 5,Spring Brunch at the Rainbow Room
+,,  $    $    $    $  ,Contemporary American,Rockefeller Center Midtown,(75),3.7 stars out of 5,Gallery Bar Pop Up
+,,  $    $    $    ,Italian,Midtown West,(2331),4.6 stars out of 5,Casa Nonna - Midtown
+,,  $    $    $    ,Seafood,Midtown East,,,Ammos Estiatorio
+,2,  $    $    $    ,American,Gramercy / Flatiron,(1539),4.6 stars out of 5,The Little Beet Table
+,,  $    $      ,Cocktail Bar,Theater District / Times Square,(18),4.1 stars out of 5,Fashion Bar & Restaurant
+, Takeout,  $    $      ,Indian,Theater District / Times Square,(1517),4.3 stars out of 5,Utsav Indian Bar and Grill
+,2,  $    $      ,"Global, International",Midtown West,(275),4.6 stars out of 5,Buenavista Restaurant & Bar
+, Takeout,  $    $    $    ,Italian,Midtown East,(16),4.7 stars out of 5,Osteria Delbianco
+,,  $    $    $    ,Italian,Theater District / Times Square,(3908),4.3 stars out of 5,Barbetta Restaurant
+, Takeout,  $    $    $    ,Steakhouse,Midtown West,(904),4.2 stars out of 5,Frankie and Johnnie's Steakhouse - 46th Street
+, Takeout,  $    $      ,Creative Japanese,Gramercy / Flatiron,(13),4.1 stars out of 5,Norikoh- 24th street
+, Takeout,  $    $      ,American,Midtown East,(101),4.5 stars out of 5,The Perfect Pint - East
+,,  $    $      ,Italian,Midtown East,,,Cafe Rustico Ii Incorporated
+,,  $    $      ,American,Garment District / Flower District,,,Metro Grill
+,,  $    $      ,English,Garment District / Flower District,,,Brendan's Bar & Grill
+,,  $    $    $    ,Kosher,Garment District / Flower District,,,Hyo Dong Gak
+,,  $    $      ,Kosher,Garment District / Flower District,,,Hanbat Restaurant
+,,  $    $      ,American,Midtown East,,,Paul's Dancing Cafe
+,,  $    $      ,Kosher,Garment District / Flower District,,,Cho Dang Gol Korean Restaurant
+,,  $    $      ,Korean,Midtown West,,,YOON Haeundae Galbi
+,,  $    $      ,American,Midtown West,,,Denny's New Fashion
+, Takeout,  $    $      ,Contemporary American,Midtown East,(14),3.7 stars out of 5,Suite 36 Restaurant & Sports Lounge
+,,  $    $    $    ,Sushi,Theater District / Times Square,,,Toyama Sushi
+,,  $    $      ,Ramen,Midtown West,,,Tonchin
+,2,  $    $    $    ,Steak,Midtown West,(8958),4.6 stars out of 5,Keen's Steakhouse
+, Takeout,  $    $      ,American,Midtown East,(152),3.9 stars out of 5,Heartland Brewery - Empire State Building
+, Takeout,  $    $      ,Gastro Pub,Midtown West,(15),3.9 stars out of 5,McGettigan's
+,,  $    $      ,Grill,Midtown East,,,Skylark
+,,  $    $      ,Mexican,Midtown East,,,Tacos Tijuana
+,,  $    $      ,Italian,Midtown East,,,Blake & Todd Restaurant & Caterers
+,,  $    $      ,American,Midtown East,,,Bay Ridge Diner
+,,  $    $      ,Sushi,Midtown East,,,Yashin
+,,  $    $    $    $  ,Bar / Lounge / Bottle Service,Midtown West,(101),4 stars out of 5,Monarch Rooftop Lounge
+,,  $    $      ,English,Garment District / Flower District,,,Jack Demsey's
+,,  $    $      ,American,Midtown East,,,W Cafe
+,,  $    $      ,American,Garment District / Flower District,(3),4.3 stars out of 5,Foley's NY
+,,  $    $      ,Steakhouse,Midtown West,,,Rick's Cabaret International
+,,  $    $    $    $  ,Contemporary American,Midtown East,(2),5 stars out of 5,"Private Dining at The Langham, New York, Fifth Avenue"
+,2,  $    $      ,Mexican,Midtown East,(17),4.1 stars out of 5,Tacombi - Empire State Building
+, Takeout,  $    $    $    ,Greek,Midtown East,(135),4.3 stars out of 5,Avaton Estiatorio
+,,  $    $      ,American,Midtown East,,,Blacksmith Cafe & Delicatessen
+,,  $    $      ,Korean,Midtown West,(13),3.9 stars out of 5,Maru Karaoke Lounge
+,,  $    $    $    $  ,American,Garment District / Flower District,,,Chorus NYC
+,,  $    $    $    ,Kosher,Garment District / Flower District,,,Wonjo
+,,  $    $    $    ,Bar / Lounge / Bottle Service,Midtown West,(1),4.3 stars out of 5,Stanford West Whiskey Bar
+, Takeout,  $    $    $    $  ,Comfort Food,Murray Hill,(9),3.5 stars out of 5,Slattery's Mid Town Pub
+,,  $    $      ,Kosher,Garment District / Flower District,,,Shilla - NY
+,,  $    $      ,Barbecue,Garment District / Flower District,,,Jongro Bbq
+,,  $    $      ,Gastro Pub,Midtown West,(18),3.8 stars out of 5,5th & MAD
+,,  $    $      ,Kosher,Garment District / Flower District,,,Kun Jip
+,,  $    $    $    ,Korean,Garment District / Flower District,,,Pocha 32
+, Delivery partners,  $    $      ,American,Midtown West,,,Hanok Restaurant
+,,  $    $      ,Korean,Midtown West,,,Bookchangdong
+,,  $    $      ,Grill,Midtown West,,,5 Bar Karaoke
+,,  $    $      ,American,Midtown West,,,Mk
+,,  $    $      ,Grill,Midtown East,,,The Ginger Man
+,,  $    $      ,Hawaiian,Midtown West,,,Pokeworks
+,,  $    $      ,Grill,Garment District / Flower District,,,Jimmy's American Grill And Bar
+,,  $    $      ,Café,Garment District / Flower District,,,Martinique Cafe
+,2,  $    $      ,Chinese,Midtown West,(104),4.1 stars out of 5,Red Peony
+,2,  $    $    $    $  ,Italian,West Village,(35),4.5 stars out of 5,Piccolo Angolo
+, Takeout,  $    $      ,Italian,East Village,(570),4.6 stars out of 5,Porsena
+, Delivery partners,  $    $      ,Italian,Hell's Kitchen,(548),4.7 stars out of 5,kilo
+,2,  $    $      ,American,Hell's Kitchen,(30),3.6 stars out of 5,Sall Restaurant & Lounge
+,2,  $    $    $    $  ,Sushi,Columbus Circle,,,Blue Ribbon Sushi Bar & Grill
+, Delivery partners,  $    $      ,Italian,Midtown East,(256),4.2 stars out of 5,Angelo Bellini Italian Restaurant
+, Delivery partners,  $    $      ,Italian,Midtown West,(1455),4.6 stars out of 5,PizzArte
+,,  $    $    $    $  ,American,Greenwich Village,(6074),4.5 stars out of 5,"One if by Land, Two if by Sea"
+,2,  $    $      ,Japanese,Midtown West,(4058),4 stars out of 5,Benihana - New York
+,,  $    $      ,French,Greenwich Village,,,LENA - Greenwich Village
+, Takeout,  $    $    $    ,Mediterranean,Upper East Side,(155),4.5 stars out of 5,ZAVÕ Mediterranean Restaurant
+,,  $    $    $    ,American,Greenwich Village,(1897),4.6 stars out of 5,North Square
+, Takeout,  $    $      ,Italian,Midtown West,(1384),4.6 stars out of 5,Patzeria Family & Friends
+,,  $    $    $    ,Italian,West Village,(199),4.5 stars out of 5,Sotto 13
+,,  $    $      ,Georgian,Greenwich Village,(140),4.4 stars out of 5,Old Tbilisi
+,2,  $    $    $    ,Contemporary American,West Village,(912),4.6 stars out of 5,Cafe Clover
+, Takeout,  $    $      ,American,Lincoln Square,(7772),4.5 stars out of 5,The Smith- Lincoln Square
+,,  $    $      ,French,Hell's Kitchen,(108),4.3 stars out of 5,La Bergamote - Hell's Kitchen
+,2,  $    $      ,Mexican,East Village,(659),4.6 stars out of 5,La Palapa
+, Takeout,  $    $      ,Cuban,Greenwich Village,(2227),4.6 stars out of 5,Cuba
+, Takeout,  $    $    $    $  ,Egyptian,West Village,(483),4.1 stars out of 5,Casa La Femme
+,2,  $    $      ,Italian,East Village,(914),4.5 stars out of 5,Gnocco
+, Takeout,  $    $      ,Tapas / Small Plates,East Village,(875),4.7 stars out of 5,Nai Tapas
+, Takeout,  $    $    $    ,Italian,East Village,(258),4.7 stars out of 5,Risotteria Melotti
+,2,  $    $    $    ,Mexican,Greenwich Village,(506),4.5 stars out of 5,Toloache Thompson St.
+,,  $    $    $    ,Korean,East Village,(41),4.5 stars out of 5,Soogil
+,2,  $    $      ,Greek,West Village,(583),4.5 stars out of 5,Snack Taverna
+,2,  $    $      ,Italian,East Village,(611),4.7 stars out of 5,Double Zero
+,2,  $    $      ,Italian,West Village,(152),4.5 stars out of 5,Numero 28 Pizzeria - West Village
+,,  $    $    $    ,Italian,Greenwich Village,(1597),4.6 stars out of 5,Monte's Trattoria
+, Delivery partners,  $    $      ,Pizzeria,Lower East Side,(259),4.5 stars out of 5,Sorbillo Pizzeria
+, Takeout,  $    $      ,Pizzeria,Upper West Side,,,Peperino
+,2,  $    $      ,Mediterranean,East Village,(495),4.4 stars out of 5,Nomad Restaurant - East Village
+, Takeout,  $    $      ,Indian,Theater District / Times Square,(1517),4.3 stars out of 5,Utsav Indian Bar and Grill
+,,  $    $    $    ,Italian,Theater District / Times Square,(4665),4.7 stars out of 5,La Masseria
+,2,  $    $      ,American,Chelsea,(43),4.7 stars out of 5,Westville - Chelsea
+,2,  $    $      ,Mediterranean,East Village,(758),4.6 stars out of 5,Balade
+, Takeout,  $    $    $    ,Indian,Midtown East,(1540),4.6 stars out of 5,Amma
+, Takeout,  $    $      ,Comfort Food,Greenwich Village,(455),4.6 stars out of 5,White Oak Tavern
+,2,  $    $    $    $  ,Sushi,Murray Hill,(126),4.8 stars out of 5,Sushi Ryusei
+, Delivery partners,  $    $    $    ,Korean,Midtown West,(1547),4.5 stars out of 5,Bann Restaurant
+, Takeout,  $    $    $    ,Japanese,Midtown East,(472),4.6 stars out of 5,Restaurant Nippon
+,,  $    $    $    ,American,Murray Hill,(95),4.5 stars out of 5,Wine 34
+,,  $    $    $    $  ,Steakhouse,Midtown West,(4339),4.6 stars out of 5,The Capital Grille - NY - Rockefeller Center
+, Takeout,  $    $    $    $  ,Steakhouse,Midtown East,(4275),4.7 stars out of 5,The Capital Grille - NY – Chrysler Center
+,,  $    $      ,Sushi,Gramercy / Flatiron,(89),4.4 stars out of 5,Mizu Flatiron
+, Takeout,  $    $    $    ,French / Japanese,Midtown East,(324),4.5 stars out of 5,MIFUNE New York
+,2,  $    $    $    $  ,Steakhouse,Midtown West,(999),4.3 stars out of 5,Empire Steakhouse - 237 West 54 Street off of Broadway
+, Takeout,  $    $    $    ,Italian,Greenwich Village,(2270),4.8 stars out of 5,Palma
+,2,  $    $    $    $  ,Italian,Theater District / Times Square,(1498),4.6 stars out of 5,Chazz Palminteri Italian Restaurant
+,,  $    $      ,Italian,NoMad,(264),4.7 stars out of 5,Cardoncello diVino
+,2,  $    $    $    ,French,Theater District / Times Square,(5309),4.6 stars out of 5,Le Rivage
+,2,  $    $      ,Indian,Midtown East,(1473),4.6 stars out of 5,Spice Symphony – 50th St.
+,,  $    $    $    $  ,Steakhouse,Midtown East,(1005),4.5 stars out of 5,Ben and Jack's Steakhouse 44th Street
+, Takeout,  $    $      ,Italian,East Village,(295),4.7 stars out of 5,Tableside Italian Cook Shoppe
+, Takeout,  $    $      ,Pizzeria,West Village,(363),4.7 stars out of 5,Brunetti Pizza - West Village
+, Delivery partners,  $    $    $    ,Italian,Theater District / Times Square,(2148),4.5 stars out of 5,iL Punto
+, Delivery partners,  $    $      ,Italian,East Village,(1037),4.8 stars out of 5,Giano
+, Delivery partners,  $    $      ,Italian,Hell's Kitchen,(580),4.6 stars out of 5,Il Melograno
+,2,  $    $      ,Regional Mexican,West Village,(174),4.3 stars out of 5,Caliente Cab Mexican Cafe
+, Takeout,  $    $    $    ,Italian,Upper East Side,(706),4.4 stars out of 5,Serafina Always
+, Takeout,  $    $      ,Italian,Midtown West,(1315),4.3 stars out of 5,Azalea
+,2,  $    $      ,Greek,Midtown East,(423),4.5 stars out of 5,Under the Bridge
+, Takeout,  $    $    $    ,Contemporary American,Hell's Kitchen,(34),4.6 stars out of 5,The Restaurant
+,,  $    $      ,Mexican,Theater District / Times Square,(6360),4.6 stars out of 5,Toloache-Midtown
+, Takeout,  $    $      ,Italian,Gramercy / Flatiron,(593),4.6 stars out of 5,Bread & Tulips
+, Takeout,  $    $    $    ,Japanese,Hell's Kitchen,(189),4.4 stars out of 5,Haru Hell's Kitchen
+, Takeout,  $    $    $    $  ,Steakhouse,Midtown West,(2078),4.6 stars out of 5,Strip House Midtown
+,,  $    $      ,French,Chelsea,(130),4.4 stars out of 5,La Bergamote
+,2,  $    $      ,Italian,Chelsea,(552),4.4 stars out of 5,Lasagna Restaurant – Chelsea
+,,  $    $      ,French,Midtown West,(3632),4.5 stars out of 5,Rue 57
+,,  $    $    $    ,Asian,Midtown East,(12598),4.5 stars out of 5,TAO Uptown
+,,  $    $      ,Contemporary American,Midtown West,(31),4.1 stars out of 5,PHD Terrace – Dream Midtown
+,2,  $    $    $    $  ,Steakhouse,Midtown East,(586),4.4 stars out of 5,Empire Steak House- East
+,,  $    $    $    ,French,Theater District / Times Square,(6775),4.5 stars out of 5,Marseille
+,,  $    $      ,Contemporary American,Midtown East,(1150),4.6 stars out of 5,Inside Park at St. Bart's
+,,  $    $      ,Italian,Union Square,(977),4.6 stars out of 5,Ribalta Pizza
+,,  $    $      ,American,Meatpacking District,(8),4.5 stars out of 5,The Beach at Dream Downtown
+, Delivery partners,  $    $      ,American,Lincoln Square,(876),4.3 stars out of 5,P.J. Clarke's-Lincoln Square
+,,  $    $    $    $  ,Italian,Midtown East,(263),4.8 stars out of 5,San Pietro
+, Takeout,  $    $      ,Italian,Theater District / Times Square,(2694),4.4 stars out of 5,Bocca Di Bacco (Theatre District - 45th St.)
+,,  $    $      ,Italian,East Village,(777),4.4 stars out of 5,Cacio e Vino
+, Delivery partners,  $    $    $    ,Italian,Theater District / Times Square,(648),4.3 stars out of 5,Serafina at The Time Hotel
+,2,  $    $    $    ,Vegan,West Village,(753),4.6 stars out of 5,Delice & Sarrasin
+,2,  $    $      ,Italian,Greenwich Village,(1459),4.5 stars out of 5,Senza Gluten
+,2,  $    $    $    ,Steakhouse,Theater District / Times Square,(5299),4.5 stars out of 5,Ruth's Chris Steak House - New York City - Midtown
+,,  $    $    $    ,Seafood,Midtown East,,,Ammos Estiatorio
+,,  $    $    $    $  ,Farm-to-table,West Village,(612),4.8 stars out of 5,Coarse NYC
+,2,  $    $    $    ,American,Gramercy / Flatiron,(1539),4.6 stars out of 5,The Little Beet Table
+, Takeout,  $    $    $    ,Farm-to-table,Upper East Side,(1117),4.7 stars out of 5,JoJo
+,2,  $    $    $    ,Mexican,Chelsea,(157),4.6 stars out of 5,Kahlo NYC
+,2,  $    $    $    $  ,Italian,East Village,(2735),4.7 stars out of 5,Hearth
+,,  $    $    $    ,American,West Village,(507),4.4 stars out of 5,The Loyal
+,,  $    $    $    ,Italian,Midtown East,(1086),4.6 stars out of 5,Toscana 49
+,,  $    $      ,Italian,Chelsea,(692),4.2 stars out of 5,Bocca Di Bacco (Chelsea - 20th St.)
+,,  $    $    $    $  ,Steakhouse,Midtown West,(1735),4.5 stars out of 5,Nusr-Et Steakhouse New York
+, Delivery partners,  $    $      ,Contemporary American,Union Square,(309),4.4 stars out of 5,Irvington
+,,  $    $      ,Cocktail Bar,Theater District / Times Square,(18),4.1 stars out of 5,Fashion Bar & Restaurant
+,2,  $    $    $    ,Turkish,Midtown West,(120),4.6 stars out of 5,Turkuaz Restaurant
+, Delivery partners,  $    $    $    ,Italian,Midtown East,(2902),4.5 stars out of 5,LAVO Italian Restaurant - New York
+, Takeout,  $    $    $    ,Steakhouse,Midtown East,(5088),4.8 stars out of 5,Club A Steakhouse
+,2,  $    $      ,"Global, International",Midtown West,(275),4.6 stars out of 5,Buenavista Restaurant & Bar
+,2,  $    $    $    ,Indian,Theater District / Times Square,(210),4.5 stars out of 5,Saar Indian Bistro
+, Takeout,  $    $    $    $  ,French,Midtown East,(3309),4.7 stars out of 5,La Grenouille
+, Takeout,  $    $      ,Mexican,Hell's Kitchen,(18),4.3 stars out of 5,Casa Del Toro
+, Takeout,  $    $      ,French,Hell's Kitchen,(282),4.5 stars out of 5,Le Privé
+, Takeout,  $    $    $    ,Italian,Midtown East,(506),4.7 stars out of 5,Fabio Cucina Italiana
+,2,  $    $      ,Japanese,Midtown East,(99),4.5 stars out of 5,Gu Japanese Fusion Sushi and Bar
+, Takeout,  $    $    $    ,Bistro,Midtown East,(453),4.1 stars out of 5,Papillon Bistro and Bar
+, Takeout,  $    $    $    ,Italian,Midtown East,(16),4.7 stars out of 5,Osteria Delbianco
+,2,  $    $      ,Pizzeria,Chelsea,(181),4.5 stars out of 5,Ovest Pizzoteca
+,,  $    $    $    $  ,Italian,Midtown West,(1432),4.8 stars out of 5,Il Tinello
+,,  $    $    $    ,Italian,East Village,(71),4.5 stars out of 5,Tarallucci e Vino East Village
+, Takeout,  $    $    $    $  ,Steakhouse,Midtown East,(1447),4.5 stars out of 5,Wolfgang's Steak House - 54th Street
+, Takeout,  $    $    $    $  ,Indian,Midtown West,(2012),4.7 stars out of 5,Indian Accent
+,,  $    $    $    $  ,Italian,Upper East Side,(1412),4.5 stars out of 5,Il Mulino New York - Uptown
+, Takeout,  $    $    $    ,Steakhouse,Midtown West,(904),4.2 stars out of 5,Frankie and Johnnie's Steakhouse - 46th Street
+, Takeout,  $    $      ,Creative Japanese,Gramercy / Flatiron,(13),4.1 stars out of 5,Norikoh- 24th street
+,,  $    $    $    ,American,Upper East Side,(1028),4.4 stars out of 5,The East Pole - Kitchen and Bar
+,2,  $    $      ,American,East Village,(39),4.7 stars out of 5,Westville - East Village
+, Takeout,  $    $      ,American,Midtown East,(101),4.5 stars out of 5,The Perfect Pint - East
+,,  $    $    $    $  ,French,Upper East Side,(5982),4.8 stars out of 5,Daniel - DBK Terrace
+, Takeout,  $    $      ,Italian,NoHo,(278),4.4 stars out of 5,Misirizzi
+, Delivery partners,  $    $    $    ,Italian,Upper East Side,(271),4.7 stars out of 5,Felice 64 Wine Bar
+, Takeout,  $    $    $    ,American,Greenwich Village,(370),4.4 stars out of 5,Society Cafe
+,,  $    $    $    ,French,Meatpacking District,(17),3.7 stars out of 5,The Chester
+, Takeout,  $    $      ,Sushi,Midtown East,,,MakiMaki Sushi
+,,  $    $    $    ,Moroccan,Greenwich Village,(385),3.7 stars out of 5,Le Souk - Greenwich Village
+,2,  $    $      ,Mexican,Hell's Kitchen,(1005),4.5 stars out of 5,Tacuba Hell's Kitchen
+,2,  $    $    $    $  ,Japanese,Midtown West,(658),4.7 stars out of 5,Yakitori Tori Shin
+,2,  $    $      ,Mexican,Union Square,,,Tortaria
+,,  $    $    $    $  ,Japanese,Chelsea,(14),4.7 stars out of 5,Mojo Omakase
+, Takeout,  $    $      ,Italian,East Village,(570),4.6 stars out of 5,Porsena
+,2,  $    $      ,American,Midtown West,(682),4.4 stars out of 5,The Blue Dog Cookhouse And Bar
+,2,  $    $    $    ,Steakhouse,Midtown West,(4255),4.3 stars out of 5,STK - NYC - Midtown
+, Takeout,  $    $    $    $  ,American,Midtown East,(837),4.6 stars out of 5,Benjamin Steakhouse Prime
+,,  $    $    $    ,American,Midtown West,(768),4.6 stars out of 5,The Rag Trader
+, Takeout,  $    $      ,American,Midtown East,(306),4 stars out of 5,The Liberty NYC
+, Takeout,  $    $    $    $  ,Steakhouse,Meatpacking District,(2259),4.4 stars out of 5,STK - NYC - Meatpacking
+,,  $    $      ,American,Gramercy / Flatiron,(2997),4.7 stars out of 5,The Smith - Nomad
+,2,  $    $      ,Wine Bar,Midtown West,(2628),4.6 stars out of 5,AYZA Wine & Chocolate Bar
+,,  $    $    $    $  ,Seafood,Midtown East,(4605),4.7 stars out of 5,Avra Estiatorio on 48th
+,2,  $    $    $    ,Lebanese,Gramercy / Flatiron,(6171),4.6 stars out of 5,ilili
+,2,  $    $    $    $  ,Steak,West Village,(408),4.6 stars out of 5,Catch Steak
+, Takeout,  $    $    $    ,Greek,Chelsea,(77),4 stars out of 5,Mykonos Bleu Restaurant and Rooftop
+, Takeout,  $    $    $    ,Italian,Murray Hill,(2369),4.5 stars out of 5,I Trulli
+, Takeout,  $    $    $    ,Italian,Gramercy / Flatiron,(1854),4.8 stars out of 5,"Novitá - New York City, Manhattan"
+, Takeout,  $    $    $    ,Contemporary American,Midtown East,(768),4.5 stars out of 5,Park Avenue Tavern
+, Takeout,  $    $    $    ,Contemporary American,Midtown West,(2457),4.3 stars out of 5,Haven Rooftop
+,2,  $    $      ,Steakhouse,Midtown West,(10013),4.7 stars out of 5,Del Frisco's Double Eagle Steakhouse - New York City
+, Takeout,  $    $    $    ,French,Gramercy / Flatiron,(916),4.4 stars out of 5,Boucherie - Union Square
+,2,  $    $    $    ,Korean,Midtown East,(224),4.6 stars out of 5,Dons Bogam BBQ & Wine Bar
+,,  $    $    $    ,Chinese,Gramercy / Flatiron,(649),4.3 stars out of 5,Jue Lan Club
+,2,  $    $      ,Mexican,Midtown East,(2028),4.3 stars out of 5,Sinigual - NY
+,2,  $    $    $    ,Tapas / Small Plates,NoMad,(231),4.3 stars out of 5,Bazar Tapas Bar and Restaurant
+, Takeout,  $    $      ,Mexican,Theater District / Times Square,(30),4.5 stars out of 5,Tito Murphy's
+,2,  $    $      ,Steakhouse,Rockefeller Center Midtown,(3361),4.5 stars out of 5,Del Frisco's Grille - NYC
+,,  $    $    $    ,Bar / Lounge / Bottle Service,Midtown West,(74),4.5 stars out of 5,Castell Rooftop Lounge
+, Takeout,  $    $    $    $  ,American,Murray Hill,(898),4.6 stars out of 5,Fine & Rare
+, Takeout,  $    $      ,Italian,West Village,(1386),4.7 stars out of 5,Olio e Più
+, Takeout,  $    $    $    $  ,Steakhouse,Rockefeller Center Midtown,(3040),4.7 stars out of 5,Mastro's Steakhouse - New York City
+,2,  $    $      ,Italian,Gramercy / Flatiron,(1842),4.6 stars out of 5,Bocca Cucina & Bar
+, Takeout,  $    $      ,American,Murray Hill,(349),3.9 stars out of 5,Tavern 29
+,,  $    $      ,American,Midtown East,(5499),4.6 stars out of 5,The Smith - Midtown
+, Delivery partners,  $    $      ,Korean,Midtown West,(283),4.7 stars out of 5,Osamil
+, Takeout,  $    $    $    ,Italian,Chelsea,(1186),4.5 stars out of 5,Bottino
+,,  $    $    $    ,Seafood,Rockefeller Center Midtown,(3129),4.7 stars out of 5,Ocean Prime - New York
+,,  $    $    $    ,Italian,Chelsea,(1273),4.7 stars out of 5,Trattoria Zero Otto Nove
+, Takeout,  $    $    $    ,French,West Village,(1288),4.5 stars out of 5,Boucherie - West Village
+,,  $    $    $    ,French,Chelsea,(29),4.4 stars out of 5,LOULOU
+,,  $    $    $    $  ,Italian,Chelsea,(867),4.8 stars out of 5,da Umberto
+, Takeout,  $    $      ,Italian,Upper East Side,(23),4.9 stars out of 5,Piccola Cucina Uptown
+,,  $    $      ,French,Murray Hill,(1508),4.7 stars out of 5,Le Parisien
+, Takeout,  $    $    $    ,Japanese,Theater District / Times Square,(1953),4.3 stars out of 5,Haru Sushi - W 43rd
+, Takeout,  $    $    $    ,Contemporary American,Murray Hill,(164),4 stars out of 5,Ainsworth Midtown
+, Takeout,  $    $    $    ,Seafood,Chelsea,(215),4.5 stars out of 5,Seamore's - Chelsea
+, Takeout,  $    $    $    ,Contemporary American,Meatpacking District,(1015),4.2 stars out of 5,STK Rooftop
+, Takeout,  $    $    $    ,Italian,West Village,(229),4.6 stars out of 5,Da Andrea
+, Takeout,  $    $    $    ,Spanish,Union Square,(1602),4.7 stars out of 5,Casa Mono
+, Takeout,  $    $    $    ,Mexican,Midtown West,(817),4.1 stars out of 5,Cantina Rooftop
+, Takeout,  $    $      ,American,Midtown East,(299),4.4 stars out of 5,Copinette
+,2,  $    $    $    ,Peruvian,West Village,(243),4.2 stars out of 5,Baby Brasa Organic
+,2,  $    $    $    ,Italian,NoMad,(431),4.5 stars out of 5,Ulivo
+,,  $    $    $    $  ,American,Chelsea,(1892),4.6 stars out of 5,L'Amico
+,,  $    $      ,French,Upper West Side,(7916),4.5 stars out of 5,Bar Boulud
+,,  $    $      ,American,NoMad,(465),4.2 stars out of 5,Woodpecker by David Burke
+, Takeout,  $    $      ,American,Midtown West,(100),3.6 stars out of 5,Elsie Rooftop
+, Takeout,  $    $    $    ,Italian,Midtown East,(528),4.5 stars out of 5,Valbella Midtown
+,2,  $    $      ,Indian,Midtown East,,,Masala King
+, Takeout,  $    $    $    ,Mexican,Theater District / Times Square,(1575),4.2 stars out of 5,Dos Caminos - Times Square
+,,  $    $      ,Asian,Murray Hill,(113),4.5 stars out of 5,Wagamama (Murray Hill - 39th Street)
+,2,  $    $    $    $  ,Contemporary Asian,NoMad,(43),4.5 stars out of 5,Hortus NYC
+, Takeout,  $    $      ,Italian,West Village,(516),4.7 stars out of 5,Aunt Jakes - Greenwich Village
+,2,  $    $      ,Italian,Midtown East,(790),4.5 stars out of 5,Bistango at The Kimberly Hotel
+, Takeout,  $    $    $    $  ,French,Upper East Side,(675),4.6 stars out of 5,La Goulue
+,,  $    $    $    ,French,West Village,(608),4.6 stars out of 5,Petite Boucherie
+, Takeout,  $    $    $    ,French,Theater District / Times Square,(5965),4.5 stars out of 5,Chez Josephine
+,,  $    $      ,Italian,Chelsea,(694),4.6 stars out of 5,Chelsea Ristorante
+,2,  $    $    $    ,Italian,West Village,(462),4.6 stars out of 5,Baker & co
+,2,  $    $    $    ,Italian,Midtown East,(252),4.5 stars out of 5,Barolo East
+,2,  $    $      ,American,Chelsea,(50),4.7 stars out of 5,The Meatball Shop - Chelsea
+, Takeout,  $    $    $    ,Italian,Theater District / Times Square,(5092),4.5 stars out of 5,Lattanzi
+, Takeout,  $    $    $    ,Italian,Union Square,(743),4.4 stars out of 5,.Tarallucci e Vino Union Square
+, Takeout,  $    $    $    ,Steakhouse,Hell's Kitchen,(1654),4.6 stars out of 5,K Rico South American Steakhouse
+, Takeout,  $    $      ,American,East Village,(3428),4.7 stars out of 5,The Smith - East Village
+, Delivery partners,  $    $      ,Indian,Murray Hill,(282),4.6 stars out of 5,Spice Symphony - 31st St
+, Delivery partners,  $    $    $    ,Indian,Chelsea,(377),4.5 stars out of 5,aRoqa
+,2,  $    $      ,Italian,Chelsea,(149),4.2 stars out of 5,Zia Maria Ristorante and Pizzeria
+, Takeout,  $    $    $    ,Steakhouse,Midtown East,(1184),4.3 stars out of 5,212 Steakhouse
+, Takeout,  $    $    $    ,Greek,Midtown West,(966),4.8 stars out of 5,Loi Estiatorio
+, Takeout,  $    $      ,French,East Village,(346),4.4 stars out of 5,Cathédrale
+, Takeout,  $    $      ,Italian,Upper East Side,(2530),4.7 stars out of 5,Tony's Di Napoli - Upper East Side
+, Takeout,  $    $    $    $  ,Italian,Upper East Side,(369),4.5 stars out of 5,Nello
+,,  $    $    $    ,Indian,Midtown East,(427),4.3 stars out of 5,Nirvana
+, Takeout,  $    $    $    ,Contemporary American,Gramercy / Flatiron,(2385),4.7 stars out of 5,Giorgio's of Gramercy
+,,  $    $    $    $  ,French,Chelsea,(707),4.3 stars out of 5,OCabanon
+, Takeout,  $    $    $    $  ,Brazilian Steakhouse,Midtown West,(2745),4.6 stars out of 5,Fogo de Chao - New York
+, Takeout,  $    $    $    $  ,Indian,Gramercy / Flatiron,(2187),4.5 stars out of 5,Junoon Main Dining Room
+,2,  $    $    $    ,Italian,Midtown West,(1460),4.3 stars out of 5,Serafina Broadway
+,2,  $    $      ,American,Hell's Kitchen,(136),4.6 stars out of 5,THE MEATBALL SHOP - HELL'S KITCHEN
+, Delivery partners,  $    $      ,Mediterranean,Hell's Kitchen,(140),4.6 stars out of 5,Gardenia Terrace
+,,  $    $    $    ,American,Midtown East,(1062),4.4 stars out of 5,Madison & Vine
+,,  $    $    $    $  ,American,Gramercy / Flatiron,(5878),4.7 stars out of 5,Craft
+,,  $    $    $    ,American,Murray Hill,(563),4.4 stars out of 5,Wine 30
+,2,  $    $      ,Contemporary Indian,Gramercy / Flatiron,(426),4.4 stars out of 5,Pippali
+, Takeout,  $    $      ,American,Midtown West,(492),4.4 stars out of 5,The Perfect Pint - West
+,,  $    $    $    ,Contemporary Italian,East Village,(1091),4.6 stars out of 5,Cacio e Pepe
+, Takeout,  $    $    $    $  ,Mediterranean,Midtown East,(2137),4.7 stars out of 5,Avra Madison Estiatorio on 60th
+,2,  $    $    $    ,French,Midtown East,(1447),4.7 stars out of 5,Jubilee 1st Avenue
+, Takeout,  $    $    $    ,Italian,Chelsea,(402),4.6 stars out of 5,Biricchino
+,2,  $    $      ,Italian,Theater District / Times Square,(2853),4.3 stars out of 5,Ceci Italian Restaurant
+,2,  $    $    $    ,Mediterranean,Hell's Kitchen,(850),4.6 stars out of 5,Ousia
+,,  $    $    $    ,Italian,Theater District / Times Square,(4665),4.7 stars out of 5,La Masseria

@@ -35,7 +35,11 @@ class OpentableSpider(Spider):
 
             rating = item.xpath('.//div[@class="star-rating-score"]/@aria-label').extract_first()
             if type(rating) == 'NoneType':
-                rating =  'Not Available'   
+                rating =  'Not Available'
+            #if rating == '': 
+                #rating =  'Not Available'
+            # if rating  is Null:
+            #     rating = 'Not Available'  
 
 
             num_reviews = item.xpath('.//span[@class="underline-hover"]/text()').extract()
@@ -49,12 +53,12 @@ class OpentableSpider(Spider):
             location = item.xpath('.//span[@class="rest-row-meta--location rest-row-meta-text sfx1388addContent"]/text()').extract()
 
             delivery = item.xpath('.//h6[@class="rest-row-delivery__title"]/text()').extract()
-            if type(delivery) == 'NoneType':
+            if delivery == '':
                 delivery = 'None'
-            elif delivery == ' Takeout':
-                delivery = 'Takeout'
-            else: 
-                delivery = 'Delivery'
+            elif len(delivery) == 2:
+                delivery = '2'
+            # else: 
+            #     delivery = delivery[0]
             
             #response.xpath('//ul[@class="content-section-list infinite-results-list analytics-results-list"]/li[@class="result content-section-list-row cf with-times"]//h6[@class="rest-row-delivery__title"]/text()').extract()
 
