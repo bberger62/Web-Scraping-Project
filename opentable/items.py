@@ -17,7 +17,7 @@ class OpentableItem(scrapy.Item):
     expensive = scrapy.Field()
     genre = scrapy.Field()
     location = scrapy.Field()
-    booked_today_list = scrapy.Field()
+    #booked_today_list = scrapy.Field()
     delivery = scrapy.Field()
     #delivery_partners = scrapy.Field()
 
